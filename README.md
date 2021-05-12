@@ -25,8 +25,8 @@ gem install jekyll bundler
 Now all set, you are ready to clone and start serving the site locally.
 - Clone the repo and move into it
 ```bash
-git clone https://github.com/gurbaaz27/astroclubiitk.git
-cd astroclubiitk
+git clone https://github.com/astroclubiitk/astroclubiitk.github.io.git
+cd astroclubiitk.github.io
 ```
 - Install the dependecies
 ```bash
@@ -34,8 +34,10 @@ bundle install
 ```
 - Serve the site and head over to <localhost:4000>
 ```
-bundle exec jekyll serve --livereload --baseurl ''
+bundle exec jekyll serve --livereload
 ```
+
+> **NOTE:** If you edit \_config.yml file, live-reload doesn't work and you need to stop the serving using **Ctrl+C** and then serve again to see any changes made.
 
 ## Contributers
 | Name | Work Domain |
