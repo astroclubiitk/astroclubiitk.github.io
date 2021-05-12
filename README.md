@@ -40,7 +40,7 @@ bundle exec jekyll serve --livereload --baseurl ''
 | Name | Work Domain |
 |---|---|
 | [Gurbaaz Singh Nandra](http://github.com/gurbaaz27) | Programming |
-| [Varun Muralitharan](https://github.com/Varun2501) | UI/UX |
+| [Varun Muralidharan](https://github.com/Varun2501) | UI/UX |
 | Mohammad Saad | Content Writing |
 | Sunny Kumar Bhagat  | Content Compilation |
 | Varun Singh | Content Compilation |
