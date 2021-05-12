@@ -2,7 +2,7 @@
 
 This is the official repo for the homepage of Astronomy Club IIT Kanpur, going to the moon :rocket:. 
 
-`NOTE`: Currently as it is under development phase during the SnT tenure 2022-23, if you visit the homepage, make sure to `hard reload` the site to see any changes. It will soon be completed as same shall be notified.
+`NOTE`: Currently as it is under development phase during the SnT tenure 2022-23, if you visit the homepage, make sure to `hard reload` the site using **Ctrl+Shift+R** to see any changes. It will soon be completed and the same shall be notified.
 
 ## Installation
 You may want to run the website locally, probably to deep dive into the code, find any bug/issue or contribute to improve the website. The site is served using Jekyll, a Ruby-based static site generator with immense support for Github pages. You may need to go through the [installation process](https://jekyllrb.com/docs/installation/) for the Jekyll depending on your OS. For Ubuntu, the steps are also written here for ease:
