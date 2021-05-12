@@ -1016,3 +1016,17 @@ pre {
   -webkit-transform: scale(1.5); /* Safari 3-8 */
   transform: scale(1.5); 
 }
+
+body::-webkit-scrollbar {
+  width: 15px; /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #0B0C10;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color:#66FCF1;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid #0B0C10;  /* creates padding around scroll thumb */
+}
