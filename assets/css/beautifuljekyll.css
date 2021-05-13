@@ -726,7 +726,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .header-section.has-img .intro-header.no-img {
   display: none;
 }
-@media (max-width: 365px) {
+@media (max-width: 350px) {
   .header-section.has-img .intro-header.no-img {
     display: block;
   }
