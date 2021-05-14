@@ -5,9 +5,9 @@ layout: page
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
-{% assign post = posts[0] %}
 
 <div class="posts-list">
+  {% for post in posts %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
@@ -86,6 +86,7 @@ layout: page
     {% endif %}
 
    </article>
+  {% endfor %}
 </div>
 
 {% if paginator.total_pages > 1 %}
@@ -102,12 +103,3 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
-
-<ul class="pagination blog-pager">
-  <li class="page-item">
-    <a class="page-link" href="/blogs" data-toggle="tooltip" data-placement="top">View all posts &rarr;</a>
-  </li>
-</ul>
-<br>
-
-<code>Could not find the content you were looking for?<br> Try hot reloading the website using <b>Ctrl+Shift+R</b>.</code>
