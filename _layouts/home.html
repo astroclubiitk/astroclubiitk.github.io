@@ -5,11 +5,10 @@ layout: page
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
-{% assign post = posts[0] %}
 
 <div class="posts-list">
-  <article class="post-preview">
-
+  {% for post in posts limit: 2 %}
+  <article class="post-preview">    
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}
@@ -84,8 +83,8 @@ layout: page
       {% endfor %}
     </div>
     {% endif %}
-
    </article>
+   {% endfor %}
 </div>
 
 {% if paginator.total_pages > 1 %}
@@ -109,5 +108,3 @@ layout: page
   </li>
 </ul>
 <br>
-
-<code>Could not find the content you were looking for?<br> Try hot reloading the website using <b>Ctrl+Shift+R</b>.</code>

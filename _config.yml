@@ -19,14 +19,15 @@ collections:
   team:
   sponsors:
   ex_team:
+  resources:
 
 navbar-links:
   Summer Projects '21: "summer-projects21"
   Blogs: "blogs"
-  Resources:
-    - Observatory Photographs: "https://docs.google.com/document/d/1mCkyUDDg3cBNqu79266P3woh9NWQ6ot8AZKWYAjWTaI/edit?usp=sharing"
-    - Past Work: "https://drive.google.com/drive/folders/1F9RBzVQRmNh8LXwnyuCQbQQKqdYHSl69?usp=sharing"
-    - Wordpress: "https://astroclubiitk.wordpress.com/"
+  Resources: "resources"
+    # - Observatory Photographs: "https://docs.google.com/document/d/1mCkyUDDg3cBNqu79266P3woh9NWQ6ot8AZKWYAjWTaI/edit?usp=sharing"
+    # - Past Work: "https://drive.google.com/drive/folders/1F9RBzVQRmNh8LXwnyuCQbQQKqdYHSl69?usp=sharing"
+    # - Wordpress: "https://astroclubiitk.wordpress.com/"
   Gallery: "gallery"
   Team: "team"
 
@@ -99,7 +100,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "astronomy,thatsiitk,iitk,iit,kanpur,club,science,technology,snt"
+keywords: "astronomy,thatsiitk,iitk,iit,kanpur,club,science,technology,snt,space"
 
 # --- Colours / background image --- #
 
@@ -246,8 +247,10 @@ exclude:
   - screenshot.png
   - docs/
   - astro-prototype/
+  - snt-site/
   - build.sh
   - collection-maker.sh
+  - redundant-content.txt
 
 plugins:
   - jekyll-paginate
