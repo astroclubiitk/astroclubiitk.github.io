@@ -779,16 +779,22 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   margin-left: auto;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 350px) {
   .pagination.blog-pager {
     margin-top: 0.625rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .pagination .page-item .page-link {
+    font-size: 0.875rem;
   }
 }
 
 .pagination .page-item .page-link {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-size: 0.875rem;
+  font-size: 1.5rem;
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
