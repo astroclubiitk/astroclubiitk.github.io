@@ -63,3 +63,8 @@ Zodiac signs are named after the constellations through which sun passes every y
 ## Q. Is anything larger than the Galaxies?
 
 Yes, there are structures which are larger than the Galaxies. These are termed as Filaments. Filaments are Galaxies grouped together. If we zoom out a considerable amount then these would appear like 'worms' or 'filaments of a bulb'. 
+
+
+## Q. What is the difference between geocentric and heliocentric theories?
+
+Ans. According to the geocentric belief Earth is the center of the universe and all the other stars and planets go around it. On the other hand the heliocentric belief claims the Sun to be the center of universe and all the other heavenly bodies going around it. Actually there is a flaw in this proposition because at that time the astronomers did not know that the night sky comprised of more than one solar systems.
