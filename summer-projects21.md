@@ -13,7 +13,9 @@ Semester long summer projects have been announced! Read about all of the SnT pro
 
 *Expected Workload:* 6 hr/week
 
-*Mentor(s):* Gurbaaz Singh Nandra, Mohammad Saad, Varun Muralidharan
+*Mentors:* Gurbaaz Singh Nandra, Mohammad Saad, Varun Muralidharan
+
+*Github Repository Link:*  [astroclubiitk/computational-astrophysics](https://github.com/astroclubiitk/computational-astrophysics)
 
 ### 2. Space: The Final Frontier
 
@@ -21,7 +23,9 @@ Semester long summer projects have been announced! Read about all of the SnT pro
 
 *Expected Workload:* 6 hr/week
 
-*Mentor(s):* Mubashshir Uddin, Sunny Kumar Bhagat, Varun Singh
+*Mentors:* Mubashshir Uddin, Sunny Kumar Bhagat, Varun Singh
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kxt333LNAYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 3. RAD
 
@@ -29,4 +33,6 @@ Semester long summer projects have been announced! Read about all of the SnT pro
 
 *Expected Workload:* 4 hr/week
 
-*Mentor(s):* Mubashshir Uddin, Mohammad Saad, Varun Muralidharan
+*Mentors:* Mubashshir Uddin, Mohammad Saad, Varun Muralidharan
+
+*Github repository link:* [astroclubiitk/rad](https://github.com/astroclubiitk/rad)
