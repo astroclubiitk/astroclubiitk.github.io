@@ -55,7 +55,7 @@ There are also mountain ranges on the moon, with the highest peaks higher than M
 
 ## Planets
 
-<img src="{{ site.baseurl }}/assets/img/astrophotography9.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/astrophotography9.JPG" class="center">
 
 Planets, though bright, shough little detail when taken by afocal technique. This is because the exposure is for short duration. Thus it would not be possible to see the moons of Jupiter, or the rings of Saturn in the image ( although it would be visible through the telescope). Remember that our eyes are much more sensitive than cameras unless they are kept for prolonged exposures.
 
@@ -70,9 +70,9 @@ Pretty much everything. This isn't a very easy hobby, and it can take several ho
 
 <table>
 <tr>
-<td><img src="{{ site.baseurl }}/assets/img/astrophotography10.jpg" class="center"></td>
-<td><img src="{{ site.baseurl }}/assets/img/astrophotography11.jpg" class="center"></td>
-<td><img src="{{ site.baseurl }}/assets/img/astrophotography12.jpg" class="center"></td>
+<td><img src="{{ site.baseurl }}/assets/img/astrophotography10.JPG" class="center"></td>
+<td><img src="{{ site.baseurl }}/assets/img/astrophotography11.JPG" class="center"></td>
+<td><img src="{{ site.baseurl }}/assets/img/astrophotography12.JPG" class="center"></td>
 </tr>
 <tr>
 <td>Glare</td>

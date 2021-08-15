@@ -5,7 +5,7 @@ subtitle: A one-stop resource place for your project undertakings.
 cover-img: /assets/img/banner9.jpg
 ---
 
-Semester long summer projects have been announced! Read about all of the SnT projects [here](https://drive.google.com/drive/folders/1p3xqxxY2J1APDkfaCvIAOVNKVIGMMrfI) or go though the following list covering our projects offering. 
+Semester long summer projects have been completed successfully! Read about all of the SnT projects [here](https://drive.google.com/drive/folders/1p3xqxxY2J1APDkfaCvIAOVNKVIGMMrfI) or go though the following list covering our projects offered this semester. The resources have also been provided below.
 
 ### 1. Computational Astrophysics
 
@@ -17,6 +17,8 @@ Semester long summer projects have been announced! Read about all of the SnT pro
 
 *Github Repository Link:*  [astroclubiitk/computational-astrophysics](https://github.com/astroclubiitk/computational-astrophysics)
 
+*Resources:* <a href="/assets/docs/Computational_Astrophysics_Documentation.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/Computational_Astrophysics_Poster.pdf" target="_blank">Poster</a>
+
 ### 2. Space: The Final Frontier
 
 *Abstract:* The project aims to study the fundamentals of designing a space mission and to acknowledge the efforts made by space research organisations in designing and executing successful space programs. We shall understand the foundations of rocket design and propulsion systems along with the dynamics and systems which keep things that we sent to space, in space. Eventually, we shall look at the future of interstellar travel and what we must achieve before our goal becomes a reality.
@@ -24,6 +26,8 @@ Semester long summer projects have been announced! Read about all of the SnT pro
 *Expected Workload:* 6 hr/week
 
 *Mentors:* Mubashshir Uddin, Sunny Kumar Bhagat, Varun Singh
+
+*Resources:* [YouTube Playlist](https://www.youtube.com/watch?v=Kxt333LNAYk&list=PLkCEOmgEj_7HGBCidanDz9cBJKMKbdflV), <a href="/assets/docs/Space_Documentation.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/Space_Poster.pdf" target="_blank">Poster</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kxt333LNAYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -35,4 +39,6 @@ Semester long summer projects have been announced! Read about all of the SnT pro
 
 *Mentors:* Mubashshir Uddin, Mohammad Saad, Varun Muralidharan
 
-*Github repository link:* [astroclubiitk/rad](https://github.com/astroclubiitk/rad)
+<!-- *Github repository link:* [astroclubiitk/rad](https://github.com/astroclubiitk/rad) -->
+
+*Resources:* <a href="/assets/docs/RAD_Handbook_2021.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/RAD_Poster.pdf" target="_blank">Poster</a>
