@@ -5,7 +5,7 @@ subtitle: A one-stop resource place for your project undertakings.
 cover-img: /assets/img/banner9.jpg
 ---
 
-Semester long summer projects have been completed successfully! Read about all of the SnT projects [here](https://drive.google.com/drive/folders/1p3xqxxY2J1APDkfaCvIAOVNKVIGMMrfI) or go though the following list covering our projects offered this semester. The resources have also been provided below.
+Semester long summer projects for the year 2021 have been completed successfully! Read about all of the SnT projects [here](https://drive.google.com/drive/folders/1p3xqxxY2J1APDkfaCvIAOVNKVIGMMrfI) or go though the following list covering our projects offered this semester. The resources have also been provided below.
 
 ### 1. Computational Astrophysics
 
@@ -29,7 +29,7 @@ Semester long summer projects have been completed successfully! Read about all o
 
 *Resources:* [YouTube Playlist](https://www.youtube.com/watch?v=Kxt333LNAYk&list=PLkCEOmgEj_7HGBCidanDz9cBJKMKbdflV), <a href="/assets/docs/Space_Documentation.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/Space_Poster.pdf" target="_blank">Poster</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kxt333LNAYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/Kxt333LNAYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 3. RAD
 
