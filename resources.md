@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-subtitle: Dont't know where to start? We got your back!
+subtitle: Confused where to start? We got your back!
 cover-img: /assets/img/banner6.jpg
 ---
 <ul class="pagination blog-pager">
