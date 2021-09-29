@@ -23,7 +23,7 @@ collections:
   associate_members:
 
 navbar-links:
-  Summer Projects \'21: "summer-projects21"
+  Summer Projects '21: "summer-projects21"
   Blogs: "blogs"
   Resources: "resources"
     # - Observatory Photographs: "https://docs.google.com/document/d/1mCkyUDDg3cBNqu79266P3woh9NWQ6ot8AZKWYAjWTaI/edit?usp=sharing"
@@ -172,7 +172,7 @@ footer-link-col: "#0B0C10"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "astroclubiitk"
+disqus: "https-astroclubiitk-github-io"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 # fb_comment_id: "https://www.facebook.com"
