@@ -44,8 +44,8 @@ bundle exec jekyll serve --livereload
 | [Varun Muralidharan](https://github.com/Varun2501) | UI/UX |
 | [Mohammad Saad](https://github.com/saad369) | Content Writing |
 | [Mubashshir Uddin](https://github.com/meandme234) | Content Writing |
-| Sunny Kumar Bhagat  | Content Compilation |
-| Varun Singh | Content Compilation |
+| [Sunny Kumar Bhagat](https://github.com/SunnyKumarBhagat)  | Content Compilation |
+| [Varun Singh](https://github.com/varunsng) | Content Compilation |
 
 We always welcome an issue or a suggestion! <br>Also, feel free to contribute via a PR. If deemed worthy, we would be more than happy to incorporate it :smile:.
 
