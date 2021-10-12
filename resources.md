@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 subtitle: Confused where to start? We got your back!
-cover-img: /assets/img/banner6.jpg
+cover-img: /assets/img/banner13.jpg
 ---
 <ul class="pagination blog-pager">
   {% for resource in site.resources limit:2 %}

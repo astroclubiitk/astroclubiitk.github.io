@@ -2,7 +2,7 @@
 layout: page
 title: Summer Projects
 subtitle: A one-stop resource place for your project undertakings.
-cover-img: /assets/img/banner9.jpg
+cover-img: /assets/img/banner11.jpg
 ---
 
 Semester long summer projects for the year 2021 have been completed successfully! Read about all of the SnT projects [here](https://drive.google.com/drive/folders/1p3xqxxY2J1APDkfaCvIAOVNKVIGMMrfI) or go though the following list covering our projects offered this semester. The resources have also been provided below.
