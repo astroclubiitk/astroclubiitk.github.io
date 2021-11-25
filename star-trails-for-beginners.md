@@ -3,6 +3,8 @@ layout: page
 title: Star Trails for Beginners
 subtitle: <i>Mohammad Saad</i> | <i>5 minutes read</i>
 cover-img: /assets/img/star-trails/index.jpg
+thumbnail-img: /assets/img/star-trails/index_0.jpg
+share-img: /assets/img/star-trails/index_0.jpg
 ---
 
 ## Pre-Capturing
