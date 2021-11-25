@@ -44,3 +44,11 @@ cover-img: /assets/img/banner13.jpg
   <br>
   {% endfor %}  
 </ul>
+<ul class="pagination blog-pager">
+  {% for resource in site.resources limit:2 offset:10 %}
+  <li class="page-item">
+    <a class="page-link" href="{{ resource.link }}" data-toggle="tooltip" data-placement="top" >{{ resource.title }}</a>
+  </li>
+  <br>
+  {% endfor %}  
+</ul>
