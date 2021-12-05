@@ -5,6 +5,9 @@ subtitle: Check out the guide to astrophotography <a href="/astrophotography">he
 ---
 
 ## THE ORION (Messier 42)
+
+<img src="{{ site.baseurl }}/assets/img/observatory0.png" class="center">
+
 The Orion Nebula (aka. M42) located right below Orion’s Belt, can be seen with the naked eye as a fuzzy patch surrounding the star Theta. It is nearly a degree across in the sky, which makes it even larger than the full moon (although the moon appears to be larger because it is brighter). It is one of the brightest HII regions, being composed mainly of ionized hydrogen which gives off the dominant red glow. The energy to keep the nebula glowing comes from the very hot young stars in a formation called The Trapezium.
 M42 probably contains several hundred stars younger than a million years. Stars are still bei
 ng born in a dense cloud behind the nebula, but they are hidden from our view by a concentration of dust which reduces their light only to a million-millionth of its original intensity. Fortunately, astronomers have, with the help of infrared cameras, seen beyond the dust cloud and revealed the stellar nursery in all its glory.
