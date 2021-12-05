@@ -1,6 +1,6 @@
 # Astronomy Club IITK Website
 
-This is the official repo for the homepage of Astronomy Club IIT Kanpur, hosted at [astroclubiitk.github.io](https://astroclubiitk.github.io/).
+This is the official repo for the homepage of Astronomy Club IIT Kanpur, hosted at [https://astro.sntiitk.in/](https://astro.sntiitk.in/).
 
 ## Installation
 You may want to run the website locally, probably to deep dive into the code, find any bug/issue or contribute to improve the website. The site is served using Jekyll, a Ruby-based static site generator with immense support for Github pages. You may need to go through the [installation process](https://jekyllrb.com/docs/installation/) for the Jekyll depending on your OS. For Ubuntu, the steps are also written here for ease:
