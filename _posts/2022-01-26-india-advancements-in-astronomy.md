@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Future Technology Needs for India – 2047
+title: India's Technological Advancements in Astronomy
 subtitle: Article by Ishita Vyavahare
 # cover-img: /assets/img/future-tech-india/poster.jpg
 thumbnail-img: /assets/img/future-tech-india/poster.jpg
