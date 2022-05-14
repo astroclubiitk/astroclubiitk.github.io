@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h3 style="text-align: center;">Current Coordinators (2021-22)</h3><br>
+<h3 style="text-align: center;">Current Coordinators (2022-23)</h3><br>
 
 <div class="container pt-6 pb-6">
     <div class="row pt-6 pb-6">
@@ -74,37 +74,41 @@ layout: page
     </div>
 </div>
 
-<h3 style="text-align: center;">Secretaries (2021-22)</h3><br>
+<!-- <h3 style="text-align: center;">Secretaries (2021-22)</h3><br>
 
 <div class="container pt-6 pb-6">
     <div class="row pt-6 pb-6">
         <ol>
-            <li>Adit Jain (200038)</li>
-            <li>Aditya Kushwaha (200051)</li>
-            <li>Anshul Agarwal (200152)</li>
-            <li>Arkachur Bhattacharya (200184)</li>
-            <li>Aryan Vora (200204)</li>
-            <li>Atharva Dehadraya (200218)</li>
-            <li>Batta Soumith (200264)</li>
-            <li>Ganesh Kumar (200367)</li>
-            <li>Ishita Agarwal (200458)</li>
-            <li>Ishita Vyavahare (200459)</li>
-            <li>Kalash Talati (200484)</li>
-            <li>Kavish Priolkar (200502)</li>
-            <li>Keval Moliya (200509)</li>
-            <li>Kshipra Motikar (200598)</li>
-            <li>Nikita Singh (200638)</li>
-            <li>Ojsi Goel (200653)</li>
-            <li>Prabhdeep (200689)</li>
-            <li>Prasang Gupta (200706)</li>
-            <li>Priya Gole (200727)</li>
-            <li>Saikrishna S (200827)</li>
-            <li>Shashank Sinha (200920)</li>
-            <li>Tanush Kumar (201043)</li>
-            <li>Varshitha Janavi (201088)</li>
-            <li>Vasu Paliwal (201096)</li>
-            <li>Yashika Malhotra (201152)</li>
         </ol>
+    </div>
+</div> -->
+
+<h3 style="text-align: center;">Ex-Coordinators (2021-22)</h3><br>
+
+<div class="container pt-6 pb-6">
+    <div class="row pt-6 pb-6">
+        {% for member in site.ex_team_y19 %}
+        <div class="col-12 col-md-6 mb-2">
+            <div class="card border-0">
+                {% if member.image_path %}
+                <img alt="{{ member.title }}" class="img-fluid mb-2 card-img-top" src="{{ site.baseurl }}{{ member.image_path }}" />
+                {% endif %}
+                <div class="card-body text-center" style="padding: 0px; padding-bottom: 10px;">
+                    <h4 class="card-title mb-0" style="padding-bottom: 10px; margin: 10px;">{{ member.title }}</h4>
+                    <h6 class="card-text">{{ member.info }}</h6>
+                    <ul class="list-inline text-center" style="margin: 0;">
+                        <li class="list-inline-item">
+                        <a target="_blank" href="https://facebook.com/{{ member.facebook }}" title="Facebook">
+                            <span class="fa-stack fa-lg" aria-hidden="true">
+                            <i class="fab fa-facebook fa-stack-1x"></i>
+                            </span>
+                        </a>
+                        </li>
+                    </ul>
+                </div>                
+            </div>
+        </div>
+        {% endfor %}
     </div>
 </div>
 
@@ -112,7 +116,7 @@ layout: page
 
 <div class="container pt-6 pb-6">
     <div class="row pt-6 pb-6">
-        {% for member in site.ex_team %}
+        {% for member in site.ex_team_y18 %}
         <div class="col-12 col-md-6 mb-2">
             <div class="card border-0">
                 {% if member.image_path %}

@@ -1,7 +1,7 @@
 ---
-image_path: /assets/img/cordi3.jpg
-title: Sunny Kumar Bhagat
-info: Y19 BT Chemical Engineering
-facebook: sunnykumar.bhagat.334
-insta: sunny4426kumar
+image_path: /assets/img/coordi3.jpg
+title: Nikita Singh
+info: Y20 BT Mechanical Engg.
+facebook:
+insta:
 ---

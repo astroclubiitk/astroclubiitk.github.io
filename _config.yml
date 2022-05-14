@@ -11,14 +11,15 @@ title: AstroClubIITK
 titlebar: Astronomy Club &#8226; IIT Kanpur
 
 # Your name to show in the footer
-author: Gurbaaz & Varun 
+author: Astronomy Club IIT Kanpur 
 
 # --- List of links in the navigation bar --- #
 collections:
   gallery:
   team:
   sponsors:
-  ex_team:
+  ex_team_y19:
+  ex_team_y18:
   resources:
   associate_members:
 
@@ -212,7 +213,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "India/Kolkata"
+# timezone: "India/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
