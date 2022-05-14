@@ -3,7 +3,7 @@
 This is the official repo for the homepage of Astronomy Club IIT Kanpur, hosted at [https://astro.sntiitk.in/](https://astro.sntiitk.in/).
 
 ## Installation
-You may want to run the website locally, probably to deep dive into the code, find any bug/issue or contribute to improve the website. The site is served using Jekyll, a Ruby-based static site generator with immense support for Github pages. You may need to go through the [installation process](https://jekyllrb.com/docs/installation/) for the Jekyll depending on your OS. For Ubuntu, the steps are also written here for ease:
+You may want to run the website locally, probably to deep dive into the code, find any bug/issue or contribute to improve the website. The site is served using Jekyll, a Ruby-based static site generator with immense support for GitHub pages. You may need to go through the [installation process](https://jekyllrb.com/docs/installation/) for the Jekyll depending on your OS. For Ubuntu, the steps are also written here for ease:
 - Install Ruby and other prerequisites:
 ```bash
 sudo apt-get install ruby-full build-essential zlib1g-dev 
@@ -35,9 +35,11 @@ bundle install
 bundle exec jekyll serve --livereload
 ```
 
-> **NOTE:** If you edit \_config.yml file, live-reload doesn't work and you need to stop the serving using **Ctrl+C** and then serve again to see any changes made.
+> **NOTE:** <br>
+(i) If you edit \_config.yml file, live-reload doesn't work and you need to stop the serving using **Ctrl+C** and then serve again to see any changes made.<br>
+(ii) If using Windows, you might encounter the error, **"Unable to load the EventMachine C extension; To use the pure-ruby reactor, require 'em/pure_ruby'"**. Refer [this](https://stackoverflow.com/questions/30682575/unable-to-load-the-eventmachine-c-extension-to-use-the-pure-ruby-reactor#:~:text=If%20you%20are,with%20no%20issues.) to resolve it.
 
-## Contributers
+## Contributors
 | Name | Work Domain |
 |---|---|
 | [Gurbaaz Singh Nandra](http://github.com/gurbaaz27) | Programming |
