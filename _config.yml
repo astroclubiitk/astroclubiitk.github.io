@@ -20,11 +20,12 @@ collections:
   sponsors:
   ex_team_y19:
   ex_team_y18:
+  projects:
   resources:
   associate_members:
 
 navbar-links:
-  Summer Projects '21: "summer-projects21"
+  Projects: "projects"
   Blogs: "blogs"
   Resources: "resources"
     # - Observatory Photographs: "https://docs.google.com/document/d/1mCkyUDDg3cBNqu79266P3woh9NWQ6ot8AZKWYAjWTaI/edit?usp=sharing"
