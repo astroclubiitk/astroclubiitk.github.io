@@ -1,41 +1,47 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
+###########################################################
+### Welcome to Beautiful Jekyll!
+### This config file is meant for settings that affect your entire website. When you first
+### set up your website you should go through all these settings and edit them, but after
+### the initial set up you won't need to come back to this file often.
+###########################################################
 
+############################
 # --- Required options --- #
-baseurl: ""
-url: ""
+############################
+
 # Name of website
 title: AstroClubIITK
 titlebar: Astronomy Club &#8226; IIT Kanpur
 future: true
 
 # Your name to show in the footer
-author: Astronomy Club IIT Kanpur 
+author: Astronomy Club IIT Kanput
 
-# --- List of links in the navigation bar --- #
+# Collections
 collections:
+  projects:
+    output: true
+    permalink: /:collection/:title
+  resources:
+    output: true
+    permalink: /:collection/:title
   gallery:
   team:
-  sponsors:
-  ex_team_y19:
-  ex_team_y18:
-  projects:
-  resources:
-  associate_members:
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
 
 navbar-links:
-  Projects: "projects"
-  Blogs: "blogs"
-  Resources: "resources"
-    # - Observatory Photographs: "https://docs.google.com/document/d/1mCkyUDDg3cBNqu79266P3woh9NWQ6ot8AZKWYAjWTaI/edit?usp=sharing"
-    # - Past Work: "https://drive.google.com/drive/folders/1F9RBzVQRmNh8LXwnyuCQbQQKqdYHSl69?usp=sharing"
-    # - Wordpress: "https://astroclubiitk.wordpress.com/"
-  Gallery: "gallery"
-  Team: "team"
+  projects: "projects"
+  blogs: "blogs"
+  resources: "resources"
+  gallery: "gallery"
+  team: "team"
 
+################
 # --- Logo --- #
+################
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -49,7 +55,9 @@ round-avatar: true
 #title-img: /path/to/image
 
 
+#####################################
 # --- Footer social media links --- #
+#####################################
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
@@ -77,11 +85,13 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
+# If you want your website to generate an RSS feed, provide a description
+# The URL for the feed will be https://<your_website>/feed.xml
 rss-description: This website goes to the moon 🚀
 
+###########################
 # --- General options --- #
+###########################
 
 # Select which social network share links to show in posts
 share-links-active:
@@ -92,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "astro-iitk.github.io"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -103,10 +113,23 @@ feed_show_excerpt: true
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
 
+# Add a search button to the navbar
+# post_search: true
+
+# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
+# edit_page_button: true
+
+# Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
+# If this setting is off, then long sub-menu words might get cut off
+# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
+navbar-var-length: false
+
 # The keywords to associate with your website, for SEO purposes
 keywords: "astronomy,thatsiitk,iitk,iit,kanpur,club,science,technology,snt,space,rocket,astro,nasa,spacex,india,students"
 
+######################################
 # --- Colours / background image --- #
+######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
@@ -121,21 +144,10 @@ footer-col: "#1F2833"
 footer-text-col: "#ffffff"
 footer-link-col: "#0B0C10"
 
-# navbar-col: "#242427"
-# navbar-text-col: "#E4E7EA"
-# navbar-border-col: "#383B3B"
-# page-col: "#19191B"
-# text-col: "#E4E7EA"
-# link-col: "#008AFF"
-# hover-col: "#008AFF"
-# footer-col: "#242427"
-# footer-text-col: "#9CABAA"
-# footer-link-col: "#DEDEDE"
-
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-# navbar-img: "/assets/img/nav-bg.jfif"
+#navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
@@ -150,7 +162,9 @@ footer-link-col: "#0B0C10"
 #site-js:
 #  - "/assets/js/custom-script.js"
 
+#################################
 # --- Web Analytics Section --- #
+#################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
@@ -172,23 +186,28 @@ footer-link-col: "#0B0C10"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
+####################
 # --- Comments --- #
+####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-# disqus: "https-astroclubiitk-github-io"
+#disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-# fb_comment_id: "https://www.facebook.com"
+#fb_comment_id: ""
+
+# To use CommentBox, sign up for a Project ID on https://commentbox.io
+#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 #utterances:
-# repository: "astroclubiitk/astroclubiitk.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
-# issue-term: "title"   # Mapping between blog posts and GitHub issues
-# theme: "github-light" # Utterances theme
-# label: "blog-comments" # Label that will be assigned to GitHub Issues created by Utterances
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  issue-term: title   # Mapping between blog posts and GitHub issues
+#  theme: github-light # Utterances theme
+#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
@@ -204,7 +223,25 @@ footer-link-col: "#0B0C10"
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
+# To use giscus comments:
+# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository, 
+# (2) Install the giscus app in your repository (details at https://giscus.app),
+# (3) Fill in *all* the parameters below 
+# See more details about giscus and each of the following parameters at https://giscus.app
+#giscus:
+#  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
+#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository-id: # ID of your repository, retrieve this info from https://giscus.app
+#  category: Announcements # Category name of your GitHub Discussion posts
+#  category-id: # ID of your category, retrieve this info from https://giscus.app
+#  mapping: pathname
+#  reactions-enabled: 1
+#  emit-metadata: 0
+#  theme: light
+
+################
 # --- Misc --- #
+################
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
@@ -212,10 +249,12 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
+#################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
+#################################################################################
 
 # Output options (more information on Jekyll's site)
-# timezone: "India/Kolkata"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -242,19 +281,14 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
   - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
   - docs/
   - astro-prototype/
   - snt-site/
-  - build.sh
-  - collection-maker.sh
-  - redundant-content.txt
 
 plugins:
   - jekyll-paginate

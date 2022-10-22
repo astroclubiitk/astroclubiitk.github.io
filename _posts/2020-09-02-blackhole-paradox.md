@@ -2,17 +2,15 @@
 layout: post
 title: Black Hole Information Paradox
 subtitle: Article by Mubashshir Uddin
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
-thumbnail-img: /assets/img/blackhole-paradox.jpg
-share-img: /assets/img/blackhole-paradox.jpg
+thumbnail-img: /assets/img/blogs/blackhole-paradox/cover.jpg
+share-img: /assets/img/blogs/blackhole-paradox/cover.jpg
 tags: [paradox,blackhole]
 comments: true
 ---
 
 People often portray Black-holes as giant vacuum cleaners that destroy all that wearies too close. Though that statement itself is only an exaggeration, you certainly won’t be surprised to know the truth is even more unshakable. Here we address the first fear of the wandering mind which has just come to know these very real mathematical monsters. On their first introduction to the subject, most beginners learn that –
 
-<img src="{{ site.baseurl }}/assets/img/blackhole-paradox.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/blogs/blackhole-paradox/cover.jpg" class="center">
 
 ## “NOTHING ESCAPES THE BLACKHOLE!”
 

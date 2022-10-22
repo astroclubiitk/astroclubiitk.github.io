@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Observation Sessions
-subtitle: Check out about astrophotography <a href="/astrophotography">here</a>.
 ---
+
+<h3 style="text-align:center;">Check out about astrophotography <a href="/resources/astrophotography">here</a>.</h3>
 
 We hold Observation sessions at least once a fortnight regularly. In these sessions, telescope will be used for observing Moon, nebulae, planets like Saturn etc. However, naked eye observations and using binoculars also plays an important role in astronomy. There are a lot of constellations and star patterns to be seen even with the naked eye. Informal session involving small quizzes and general discussions.
 
 We also hold Observation Sessions when major events take place, including solar and lunar eclipses, Venus transit, etc.
 
-<img src="{{ site.baseurl }}/assets/img/obs1.jpg" width="300" class="center">
+<img src="{{ site.baseurl }}/assets/img/observation/1.jpg" width="300" class="center">
 ## What you can expect to see
 
 We are a club for amateur astronomy, and our equipment is limited. Don't expect to see hubble telescope images! On the other hand it is possible to see a wealth of detail on the moon, planets and various celestial objects.
@@ -23,7 +24,7 @@ The night sky appears to be full of stars. There are certain patterns which are 
 Many stars when viewed through a telescope turn out to be double or mutiple star systems. Albireo, in Cygnus is a famous double star system that looks beautiful through a telescope having one blue and one yellow star.
 ## The Moon
 
-<img src="{{ site.baseurl }}/assets/img/obs2.bmp" class="center">
+<img src="{{ site.baseurl }}/assets/img/observation/2.bmp" class="center">
 
 The moon is the object which can be studied in by far the greatest detail using our telescopes. Half a degree in angular size when full and by far the brightest object in the sky, it is indeed difficult to miss. Contrary to popular belief, the Moon should ideally not be viewed at its full phase. During a full moon, rays of sunlight are hitting the visible portion of the moon perpendicular to the surface. As a result there is much less surface detail visible during a full moon than during other phases (such as the quarter and crescent phases) when sunlight hits the Moon at a much shallower angle. First quarter (six to nine days past new moon) is generally considered the best time to observe the Moon for backyard stargazers. Shadows and detail are most pronounced along the "terminator", the dividing line between the illuminated (day side) and dark (night side) of the Moon.
 
@@ -41,7 +42,7 @@ The main planets that can be seen from the Earth are:
 
 **Mercury**: Observation of Mercury is complicated by its proximity to the Sun, as it is lost in the Sun's glare for much of the time. It is not easily seen as its greatest angular separation from the Sun (greatest elongation) is only 28.3°. It can only be seen in morning or evening twilight.
 
-<img src="{{ site.baseurl }}/assets/img/obs3.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/observation/3.jpg" class="center">
 
 **Venus**: It is the brightest natural object in the night sky, except for the Moon, reaching an apparent magnitude of −4.6.Venus reaches its maximum brightness shortly before sunrise or shortly after sunset, for which reason it is often called the Morning Star or the Evening Star.
 
@@ -54,7 +55,7 @@ Jupiter:
 
 **Jupiter** is usually the fourth brightest object in the sky (after the Sun, the Moon and Venus) however at times Mars appears brighter than Jupiter.
 
-<img src="{{ site.baseurl }}/assets/img/obs4.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/observation/4.jpg" class="center">
 
 The Galilean moons of Jupiter ( Europa, Io , Ganymede, Callisto ) are among the largest moons in our solar system and are easily visible even through a small telescope or binoculars. They are so called because they were discovered by Galileo Galilei. They look like small white dots. 
 
@@ -65,9 +66,9 @@ On very clear nights, it is possible to see a few bands of color ( ie. the cloud
  
 **Saturn**: The ringed planet, it is considered to be one of the most beautiful sights in our solar system. The rings are easily visible in a telescope. Saturn's rings can be seen face on , or head on (where they seem to vanish). 
 
-<img src="{{ site.baseurl }}/assets/img/obs5.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/observation/5.JPG" class="center">
 
-While it is a rewarding target for observation for most of the time it is visible in the sky, Saturn and its rings are best seen when the planet is at or near opposition.During the opposition of December 17, 2002, Saturn appeared at its brightest due to a favorable orientation of the rings relative to the Earth. Now the rings are slowly tilting in such a way that they appear to be vanishing as seen from Earth.
+While it is a rewarding target for observation for most of the time it is visible in the sky, Saturn and its rings are best seen when the planet is at or near opposition. During the opposition of December 17, 2002, Saturn appeared at its brightest due to a favorable orientation of the rings relative to the Earth. Now the rings are slowly tilting in such a way that they appear to be vanishing as seen from Earth.
 
 **Other planets**: Uranus and Neptune are ( theoretically ) possible to observe using telescope, but would appear no better than stars. Pluto requires at least 14 inch telescope to see. 
 
@@ -77,7 +78,7 @@ The night sky offers a wealth of celestial showpieces including star clusters, n
 
 **Pleides**: The Pleiades, also known as M45, the Seven Sisters, is the name of an open cluster in the constellation of Taurus. It is among the nearest to the Earth of all open clusters, probably the best known and certainly the most striking to the naked eye. 
 
-<img src="{{ site.baseurl }}/assets/img/obs6.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/observation/6.jpg" class="center">
 
 **The Orion Nebula** ( M42) is a diffuse nebula situated southof Orion's Belt. It is one of the brightest nebulae, and is visible to the naked eye in the night sky. The Orion Nebula is considered to be one of the most scrutinized and photographed objects in the night sky, and is among the most intensely studied celestial features.The nebula has revealed much about the process of how stars and planetary systems are formed from collapsing clouds of gas and dust. Right: The Orion nebula.
 Beehive:
@@ -87,7 +88,7 @@ Andromeda galaxy:
 
 **The Andromeda Galaxy** ( also known as M31; older texts often called it the Great Andromeda Nebula) is a spiral galaxy approximately 2.5 million light-years away. It is the farthest object that can be seen with the unaided eye.
 
-<img src="{{ site.baseurl }}/assets/img/obs7.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/observation/7.JPG" class="center">
 
 At an apparent magnitude of 3.5, the Andromeda Galaxy is notable for being one of the brightest Messier objects, making it easily visible to the naked eye even when viewed from areas with moderate light pollution. It appears quite small without a telescope because only the central part is bright enough to be visible, but the full angular diameter of the galaxy is seven times that of the full moon.
 Others

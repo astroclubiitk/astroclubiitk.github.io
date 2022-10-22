@@ -2,9 +2,8 @@
 layout: post
 title: India's Technological Advancements in Astronomy
 subtitle: Article by Ishita Vyavahare
-# cover-img: /assets/img/future-tech-india/poster.jpg
-thumbnail-img: /assets/img/future-tech-india/poster.jpg
-share-img: /assets/img/future-tech-india/poster.jpg
+thumbnail-img: /assets/img/blogs/tech-advancement/cover.jpg
+share-img: /assets/img/blogs/tech-advancement/cover.jpg
 tags: [india, rocket, SKA, space, isro, iitk]
 ---
 

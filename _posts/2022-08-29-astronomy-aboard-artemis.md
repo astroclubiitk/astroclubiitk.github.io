@@ -2,9 +2,9 @@
 layout: post
 title: Astronomy aboard Artemis
 subtitle: Article by Shraman Das
-cover-img: /assets/img/astronomy-aboard-artemis-blog/cover.jpg
-thumbnail-img: /assets/img/astronomy-aboard-artemis-blog/rocket.jpg
-share-img: /assets/img/astronomy-aboard-artemis-blog/rocket.jpg
+cover-img: /assets/img/blogs/astronomy-artemis/cover.jpg
+thumbnail-img: /assets/img/blogs/astronomy-artemis/rocket.jpg
+share-img: /assets/img/blogs/astronomy-artemis/rocket.jpg
 tags: [artemis, SLS, moon, rocket, nasa]
 ---
 
@@ -15,12 +15,12 @@ The SLS carrying the Orion will be propelled off from Launch Pad 39B at NASA’s
 
 The trajectory of the mission can be understood via the image shown below:
 
-<img src="{{ site.baseurl }}/assets/img/astronomy-aboard-artemis-blog/map.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/blogs/astronomy-artemis/map.jpg" class="center">
 
 ## Scientific payload aboard
 The SLS will be carrying a number of cubesats such as OMOTENASHI, Lunar IceCube, LunaH-Map, LunIR, CuS, ArgoMoon, BioSentinel, EQUULEUS etc. A description of these can be found as follows: 
 
-<img src="{{ site.baseurl }}/assets/img/astronomy-aboard-artemis-blog/payload.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/blogs/astronomy-artemis/payload.jpg" class="center">
 
 1. **Lunar IceCube** will use a spectrometer to investigate lunar ice and its dynamics i.e. the absorption and release of water from the regolith (the Moon’s rocky and dusty surface). The cubesat will also study the exosphere of the moon to predict the seasonal changes and how they affect the lunar ice.
 
@@ -47,8 +47,8 @@ The SLS will be carrying a number of cubesats such as OMOTENASHI, Lunar IceCube,
 It is important to understand the possible radiation exposure in space and how to shield the human body during space travel. The Orion will experience the intense radiation of the Van Allen Belts as it will pass through the Earth's magnetosphere and thereafter it will experience the deep space radiation environment caused by solar energetic particle events produced by the Sun and particles from galactic cosmic rays.
 
 <p align="middle">
-    <img src="{{ site.baseurl }}/assets/img/astronomy-aboard-artemis-blog/ram.jpg" width="49%"/>
-    <img src="{{ site.baseurl }}/assets/img/astronomy-aboard-artemis-blog/hera.jpg" width="46%"/>
+    <img src="{{ site.baseurl }}/assets/img/blogs/astronomy-artemis/ram.jpg" width="49%"/>
+    <img src="{{ site.baseurl }}/assets/img/blogs/astronomy-artemis/hera.jpg" width="46%"/>
 </p>
 
 <div style="display:flex;width:100%;margin-top:-20px;margin-bottom:10px">

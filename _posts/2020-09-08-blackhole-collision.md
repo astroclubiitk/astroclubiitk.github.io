@@ -2,8 +2,8 @@
 layout: post
 title: Biggest Blackhole Collision Yet
 subtitle: Article by Ajay Kumar
-thumbnail-img: /assets/img/blackhole-collision1.jpg
-share-img: /assets/img/blackhole-collision1.jpg
+thumbnail-img: /assets/img/blogs/blackhole-collision/cover.jpg
+share-img: /assets/img/blogs/blackhole-collision/cover.jpg
 tags: [collision,blackhole,gravitational-waves]
 comments: true
 ---
@@ -12,8 +12,8 @@ This ‘out of the world’ event ,announced on 2 September 2020 in Physical Rev
 
 <table>
 <tr>
-<td><img src="{{ site.baseurl }}/assets/img/blackhole-collision1.jpg"></td>
-<td><img src="{{ site.baseurl }}/assets/img/blackhole-collision2.jpg"></td>
+<td><img src="{{ site.baseurl }}/assets/img/blogs/blackhole-collision/cover.jpg"></td>
+<td><img src="{{ site.baseurl }}/assets/img/blogs/blackhole-collision/collision.jpg"></td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   {% capture title %}
     {%- if page.share-title -%}
@@ -23,7 +23,7 @@
     {%- endif -%}
   {% endcapture %}
 
-  <title>{{ site.titlebar }}</title>
+  <title>{{ title }}</title>
 
   {% if site.author %}
   <meta name="author" content="{{ site.author }}">
@@ -39,7 +39,9 @@
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
 
+  {% if site.rss-description %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+  {% endif %}
 
   {% include gtag.html %}
   {% include gtm_head.html %}
@@ -52,16 +54,15 @@
     {% endfor %}
   {% endif %}
 
-
   {% if layout.common-css %}
     {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ site.baseurl }}{{ css }}">
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
   {% if site.site-css %}
     {% for css in site.site-css %}
-      <link rel="stylesheet" href="{{ site.baseurl }}{{ css }}">
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
@@ -73,7 +74,7 @@
   
   {% if page.css %}
     {% for css in page.css %}
-      <link rel="stylesheet" href="{{ site.baseurl }}{{ css }}">
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
@@ -139,7 +140,7 @@
   {% include matomo.html %}
 
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
-  <link rel="stylesheet" href="{{ site.baseurl }}{{ '/assets/css/staticman.css' }}">
+  <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
 
   {% if page.head-extra %}
@@ -147,7 +148,5 @@
       {% include {{ file }} %}
     {% endfor %}
   {% endif %}
-
-  <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico" type="image/x-icon" />
 
 </head>

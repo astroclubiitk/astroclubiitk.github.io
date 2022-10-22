@@ -2,21 +2,21 @@
 layout: post
 title: First Images from the James Webb Space Telescope
 subtitle: Article by Ashmit Bathla
-cover-img: /assets/img/james-webb-first-images-blog/cosmic_cliffs_cover.png
-thumbnail-img: /assets/img/james-webb-first-images-blog/jwst_logo.png
-share-img: /assets/img/james-webb-first-images-blog/jwst_logo.png
+cover-img: /assets/img/blogs/jwst-first-images/poster.png
+thumbnail-img: /assets/img/blogs/jwst-first-images/cover.png
+share-img: /assets/img/blogs/jwst-first-images/cover.png
 tags: [jwst, first-images, nasa, esa, csa]
 ---
 
 On the 25th of December 2021, The James Webb Space Telescope (JWST) set sail from the European Space Agency's (ESA) launch site at Kourou in French Guiana, beginning a historic program that took nearly 20 years of immense hard work and ambition to complete and 10 billion dollars worth of capital. The JWST is a collaborative program led by the National Aeronautics and Space Administration (NASA) with the European Space Agency (ESA) and the Canadian Space Agency (CSA), intended to succeed NASA-ESA's Hubble Space Telescope.
 
-<img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_1_JWST.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_1_JWST.jpg" class="center">
 
 ## Mission and Goal
 
 With an emphasis on the near-Infrared and mid-Infrared regions (in contrast to Hubble's Ultraviolet, Visible and near Infrared wavelengths), the James Webb Space Telescope would be able to detect and observe <a href="https://www.esa.int/Science_Exploration/Space_Science/What_is_red_shift#.YtIaB-akg08.link" target="_blank">redshifted light</a> from the very first galaxies formed after the big bang which are much distant and old (nearly 13.5 billion years). It will compare them with today's elliptical and spiral galaxies to understand how galaxies assemble and develop over billions of years. The JWST also plans to study the formation of stars and its protoplanetary system and aims to study exoplanets (planets outside the solar system), their constituent elements, atmosphere etc through the near and mid-infrared light, which is transparent to giant nebulae (interstellar clouds of dust).
 
-<img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_2_operational_wavelength.jpg" class="center">
+<img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_2_operational_wavelength.jpg" class="center">
 
 ## Facts and the On-board Technology
 
@@ -43,8 +43,8 @@ The instruments aboard the JWST are as follows:
 1. **SMACS 0732:**
 
     <p align="middle">
-        <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_3_smacs_jwst.jpg" width="40%"/>
-        <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_4_smacs_hubble_img.jpg" width="34%"/>
+        <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_3_smacs_jwst.jpg" width="40%"/>
+        <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_4_smacs_hubble_img.jpg" width="34%"/>
     </p>
 
     <p align="middle">
@@ -56,17 +56,17 @@ The instruments aboard the JWST are as follows:
 
 2. **WASP-97 B:**
 
-    <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_5_wasp97b_spectrum.jpg" class="center">
+    <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_5_wasp97b_spectrum.jpg" class="center">
 
     While analysing the atmosphere of WASP-97 B, a near Jupiter size exoplanet, much closer to its star (revolves completely in 2.1 days), the NIRISS, observing a particular blocked wavelength of infrared light in the received spectrum, revealed the presence of H2O molecules. The Hubble Space Telescope first discovered water on an exoplanet in 2013, while JWST delivered immediate observations with much greater detail.
     <br><br>
     How are exoplanets detected? Any exoplanet that orbits a star creates a dip in its continuous brightness pattern due to an eclipse-like situation. This dip is seen and observed by the telescope.
 
-    <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_6_transit_light_curve.png" class="center">
+    <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_6_transit_light_curve.png" class="center">
 
 3. **NGC 3132:**
 
-    <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_7_ngc3132.jpg" class="center">
+    <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_7_ngc3132.jpg" class="center">
     
     <p align="middle">
     Left: Image from NIRCam; Right: Image from MIRI
@@ -78,30 +78,30 @@ The instruments aboard the JWST are as follows:
 4. **Stephans Quintet:**
 
     <p align="middle">
-    <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_8_stephans_quintet_composit.jpg" width="40%"/>
-    <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_9_stephans_quintet_miri.jpg" width="46%"/>
+    <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_8_stephans_quintet_composit.jpg" width="40%"/>
+    <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_9_stephans_quintet_miri.jpg" width="46%"/>
     </p>
 
     The Stephens Quintet is a cluster of 5 galaxies all interacting with each other. The composite image (left) shows the galaxies with greater detail (it is even possible to point out individual stars in the galaxies). The MIRI image, on the other hand, shows the galactic structure of the galaxies and puts the supermassive black hole (in the top galaxy) in the limelight. The NIRSpec and MIRI also conducted near and mid-infrared spectroscopy, revealing the gas composition around the black hole.
 
 5. **NGC 3324:**
 
-    <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_10_carina_nebula.png" class="center">
+    <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_10_carina_nebula.png" class="center">
 
     This glorious image of the edge of a star-forming region called the NGC3324 in the carina nebula was captured by the NRICam. These observations will aid in our understanding of star formations and their effects on these massive clouds of gas and dust.
 
 6. **Jupiter:**
 
     <p align="middle">
-        <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_11_jupiter1.jpg" width="40%"/>
-        <img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_12_jupiter2.jpg" width="41%"/>
+        <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_11_jupiter1.jpg" width="40%"/>
+        <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_12_jupiter2.jpg" width="41%"/>
     </p>
 
     The NIRCam, using two different filters, also captured the red giant with great detail, including its faint ring, the red spot and Europa, its moon, which may have an ocean beneath its icy crust. The photograph also was a demonstration of JWST’s ability to observe objects in our solar system as well.
 
 ## Future course of action
 
-<img src="{{ site.baseurl }}/assets/img/james-webb-first-images-blog/content_images/image_13_jwst_image.png" class="center">
+<img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_13_jwst_image.png" class="center">
 
 The Hubble Space Telescope would forever be considered one of the most significant astronomical programs which paved the way for countless observations and findings.
 <br>

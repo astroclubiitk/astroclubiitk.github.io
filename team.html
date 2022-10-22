@@ -1,0 +1,128 @@
+---
+layout: page
+title: Our Team
+subtitle: Free free to contact any of us!
+---
+
+<h3 style="text-align: center;">Current Coordinators (2022-23)</h3><br>
+
+<div class="container pt-6 pb-6">
+    <div class="row pt-6 pb-6">
+        {% for member in site.team %}
+            {% if member.batch == "Y20" %}
+                <div class="col-12 col-md-6 mb-2">
+                    <div class="card border-0">
+                        {% if member.image_path %}
+                        <img alt="{{ member.name }}" class="img-fluid mb-2 card-img-top" src="{{ site.baseurl }}{{ member.image_path }}" />
+                        {% endif %}
+                        <div class="card-body text-center" style="padding: 0px;">
+                            <h4 class="card-title mb-0" style="padding-bottom: 10px; margin: 10px;">{{ member.name }}</h4>
+                            <h6 class="card-text">{{ member.batch }} {{ member.info }}</h6>
+                            <ul class="list-inline text-center" style="margin: 0;">
+                                <li class="list-inline-item">
+                                <a target="_blank" href="https://facebook.com/{{ member.facebook }}" title="Facebook">
+                                    <span class="fa-stack fa-lg" aria-hidden="true">
+                                    <i class="fab fa-facebook fa-stack-1x"></i>
+                                    </span>
+                                </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a target="_blank" href="https://instagram.com/{{ member.insta }}" title="Instagram">
+                                        <span class="fa-stack fa-lg" aria-hidden="true">
+                                        <i class="fab fa-instagram fa-stack-1x"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>                
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+  </div>
+
+<!-- <h3 style="text-align: center;">Secretaries (2021-22)</h3><br>
+
+<div class="container pt-6 pb-6">
+    <div class="row pt-6 pb-6">
+        <ol>
+        </ol>
+    </div>
+</div> -->
+
+<h3 style="text-align: center;">Ex-Coordinators (2021-22)</h3><br>
+
+<div class="container pt-6 pb-6">
+    <div class="row pt-6 pb-6">
+        {% for member in site.team %}
+            {% if member.batch == "Y19" %}
+                <div class="col-12 col-md-6 mb-2">
+                    <div class="card border-0">
+                        {% if member.image_path %}
+                        <img alt="{{ member.name }}" class="img-fluid mb-2 card-img-top" src="{{ site.baseurl }}{{ member.image_path }}" />
+                        {% endif %}
+                        <div class="card-body text-center" style="padding: 0px;">
+                            <h4 class="card-title mb-0" style="padding-bottom: 10px; margin: 10px;">{{ member.name }}</h4>
+                            <h6 class="card-text">{{ member.batch }} {{ member.info }}</h6>
+                            <ul class="list-inline text-center" style="margin: 0;">
+                                <li class="list-inline-item">
+                                <a target="_blank" href="https://facebook.com/{{ member.facebook }}" title="Facebook">
+                                    <span class="fa-stack fa-lg" aria-hidden="true">
+                                    <i class="fab fa-facebook fa-stack-1x"></i>
+                                    </span>
+                                </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a target="_blank" href="https://instagram.com/{{ member.insta }}" title="Instagram">
+                                        <span class="fa-stack fa-lg" aria-hidden="true">
+                                        <i class="fab fa-instagram fa-stack-1x"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>                
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+<h3 style="text-align: center;">Ex-Coordinators (2020-21)</h3><br>
+
+<div class="container pt-6 pb-6">
+    <div class="row pt-6 pb-6">
+        {% for member in site.team %}
+            {% if member.batch == "Y18" %}
+                <div class="col-12 col-md-6 mb-2">
+                    <div class="card border-0">
+                        {% if member.image_path %}
+                        <img alt="{{ member.name }}" class="img-fluid mb-2 card-img-top" src="{{ site.baseurl }}{{ member.image_path }}" />
+                        {% endif %}
+                        <div class="card-body text-center" style="padding: 0px;">
+                            <h4 class="card-title mb-0" style="padding-bottom: 10px; margin: 10px;">{{ member.name }}</h4>
+                            <h6 class="card-text">{{ member.batch }} {{ member.info }}</h6>
+                            <ul class="list-inline text-center" style="margin: 0;">
+                                <li class="list-inline-item">
+                                <a target="_blank" href="https://facebook.com/{{ member.facebook }}" title="Facebook">
+                                    <span class="fa-stack fa-lg" aria-hidden="true">
+                                    <i class="fab fa-facebook fa-stack-1x"></i>
+                                    </span>
+                                </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a target="_blank" href="https://instagram.com/{{ member.insta }}" title="Instagram">
+                                        <span class="fa-stack fa-lg" aria-hidden="true">
+                                        <i class="fab fa-instagram fa-stack-1x"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>                
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

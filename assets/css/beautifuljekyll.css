@@ -237,7 +237,7 @@ img {
   }
 
   .navbar-expand-xl .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
-    padding-right: 0;
+    /* padding-right: 0; */
   }
 }
 
@@ -1054,4 +1054,9 @@ body::-webkit-scrollbar-thumb {
   background-color:#66FCF1;    /* color of the scroll thumb */
   border-radius: 20px;       /* roundness of the scroll thumb */
   border: 3px solid #0B0C10;  /* creates padding around scroll thumb */
+}
+
+.resource-btn {
+  display: flex;
+  justify-content: space-between;
 }

@@ -2,10 +2,8 @@
 layout: post
 title: History of Astronomy
 subtitle: Article by Mohammad Saad
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
-thumbnail-img: /assets/img/history_of_astronomy.jpeg
-share-img: /assets/img/history_of_astronomy.jpeg
+thumbnail-img: /assets/img/blogs/history/cover.jpeg
+share-img: /assets/img/blogs/history/cover.jpeg
 tags: [history,astronomy]
 comments: true
 ---
