@@ -15,7 +15,7 @@ button-text: Summer 2022
 
 *Mentors:* Atharva Dehadraya, Mubashshir Uddin, Yashika Malhotra
 
-*Resources:* <a href="/assets/docs/projects/2022/Astro_101/Handbook.pdf" target="_blank">Handbook</a>
+*Resources:* <a href="/assets/docs/projects/2022/Astro_101/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2022/Astro_101/Poster.pdf" target="_blank">Poster</a>
 
 ### 2. Blast Off!
 
