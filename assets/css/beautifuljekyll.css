@@ -1060,3 +1060,36 @@ body::-webkit-scrollbar-thumb {
   display: flex;
   justify-content: space-between;
 }
+
+form {
+  margin-top: 30px;
+}
+
+form input {
+  padding: 10px 20px;
+  outline: none;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+form button {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 10px 30px;
+  outline: none;
+  border: none;
+  background-color: #FFF;
+  text-transform: uppercase;
+  color: {{ site.page-col }}
+}
+
+form button:hover {
+  background-color: {{ site.hover-col }};
+}
+
+form button:hover {
+  color: {{ site.text-col }};
+}
