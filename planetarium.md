@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planetarium Shows Booking
+title: Planetarium
 subtitle: Explore the cosmos with us!
 cover-img: /assets/img/banner/planetarium.gif
 ---
@@ -9,44 +9,22 @@ Enjoy the beauty of our planet, the solar system, the galaxy and the universe un
 
 ## Where is the planetarium?
 
-The clubroom itself is a planetarium! Want to see it yourself? Come up to Room 401, New SAC, IIT Kanpur to witness the magic.
+The planetarium is housed within the clubroom itself! Want to see it yourself? Come up to Room 401, New SAC, IIT Kanpur to witness the magic.
 
-<div class="mapouter" style="margin-bottom:30px"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=1080&amp;height=720&amp;hl=en&amp;q=Astronomy Club, IIT Kanpur&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div><style>.mapouter{position:relative;text-align:right;width:100%;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:400px;}.gmap_iframe {height:400px!important;}</style></div>
+<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%&amp;height=400&amp;hl=en&amp;q=Astronomy Club IITK&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div><style>.mapouter{position:relative;text-align:right;width:100%;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:400px;}.gmap_iframe {height:400px!important;}</style></div>
 
-## Book your seats!
+## Experience it with us!
 
 Don't worry! It's completely free of cost. Timings will be allotted on a first come, first serve basis. Kindly wait a few seconds after clicking 'Submit'.
 
-<form style="margin-bottom:40px" method="POST" name="google-sheet">
-    <input name="Full Name" required="true" type="text" placeholder="Full name" />
-    <input name="Roll Number" required="true" type="number" placeholder="Roll number" />
-    <input name="IITK CC Username" required="true" type="text" placeholder="IITK CC Username" />
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaJmNNKAP7ic0obtmd0YAABaSkzHhozCpBTO9hOqhEChLKBg/viewform?embedded=true" width="100%" height="875" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-    <div style="display:flex; flex-direction:row; justify-content:space-between">
-        <button type="submit">Submit</button>
-        <button type="reset">Reset</button>
-    </div>
-</form>
+## Forgot Confirmation Code?
+
+Relax! We got you covered! Type in your CC username or email ID and we'll send you a brand new confirmation code.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmk7TPj8TjiZJx2h9eb7eWtLXavfUQ-8aXwUXGeiicGUM83Q/viewform?embedded=true" width="100%" height="530" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Confirmation
 
-Your booking and timings, once confirmed by our team, will be sent to you via E-Mail.
-
-<script>
-    const scriptURL = '';
-    const form = document.forms['google-sheet'];
-
-    form.addEventListener('submit', e => {
-        e.preventDefault();
-        fetch(scriptURL, { method: 'POST', body: new FormData(form) })
-            .then(res => {
-                alert('Form submitted successfully!');
-                form.reset();
-                console.log(res)
-            })
-            .catch(err => {
-                alert('Snap! Something went wrong..')
-                console.log(err.message)
-            })
-    });
-</script>
+Your booking and timings, once confirmed by our team, will be sent to you via E-Mail. If you don't recieve an E-Mail within 5 minutes, please try submitting the form again.
