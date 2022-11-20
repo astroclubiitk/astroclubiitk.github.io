@@ -17,6 +17,8 @@ The planetarium is housed within the clubroom itself! Want to see it yourself? C
 
 Don't worry! It's completely free of cost. Timings will be allotted on a first come, first serve basis. Kindly wait a few seconds after clicking 'Submit'.
 
+**NOTE**: This will be open exclusively for IIT Kanpur UG Y22 students for a limited time period.
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScaJmNNKAP7ic0obtmd0YAABaSkzHhozCpBTO9hOqhEChLKBg/viewform?embedded=true" width="100%" height="875" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Forgot Confirmation Code?

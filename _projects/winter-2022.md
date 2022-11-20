@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Witnter Projects 2022
+title: Winter Projects 2022
 subtitle: Projects conducted by the club during Jan - Mar 2022
 cover-img: /assets/img/banner/projects/winter-2022.jpg
 link: /projects/winter-2022
