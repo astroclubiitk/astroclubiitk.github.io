@@ -27,6 +27,7 @@ collections:
     permalink: /:collection/:title
   gallery:
   team:
+  sponsors:
 
 ###############################################
 # --- List of links in the navigation bar --- #
