@@ -61,7 +61,9 @@ The Galilean moons of Jupiter ( Europa, Io , Ganymede, Callisto ) are among the 
 
 The Galilean moons have short periods of rotation. It is possible to see a difference in their positions within as little as two hours.
 
-On very clear nights, it is possible to see a few bands of color ( ie. the cloud belts ) and the Great Red Spot in the surface of Jupiter.
+On very clear nights, it is possible to see a few bands of color ( ie. the cloud belts ) and the Great Red Spot in the surface of Jupiter. Astronomy Club recently conducted an open for all Jupiter Observation session on September 26th and 27th, 2022 that witnessed a footfall of more than 3000 people from the institute. A little timelapse of the same:
+
+<img src="{{ site.baseurl }}/assets/img/observation/jupiter.gif" class="center" />
 
  
 **Saturn**: The ringed planet, it is considered to be one of the most beautiful sights in our solar system. The rings are easily visible in a telescope. Saturn's rings can be seen face on , or head on (where they seem to vanish). 
