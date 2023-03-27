@@ -40,3 +40,12 @@ cover-img: /assets/img/banner/resources.jpg
   <br>
   {% endfor %}  
 </ul>
+
+<ul class="pagination blog-pager resource-btn">
+  {% for resource in site.resources limit:1 offset:10 %}
+  <li class="page-item">
+    <a class="page-link" href="/resources/{{ resource.link }}" data-toggle="tooltip" data-placement="top" >{{ resource.button-text }}</a>
+  </li>
+  <br>
+  {% endfor %}  
+</ul>
