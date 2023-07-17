@@ -2,9 +2,9 @@
 layout: post
 title: Chandrayaan 3
 subtitle: Article by Amar Sathwik, Samhitha Keluth, Yeleena
-cover-img: /assets/img/blogs/chandrayaan-3/poster.png
-thumbnail-img: /assets/img/blogs/chandrayaan-3/cover.png
-share-img: /assets/img/blogs/chandrayaan-3/cover.png
+cover-img: /assets/img/blogs/chandrayaan-3/cover.png
+thumbnail-img: /assets/img/blogs/chandrayaan-3/thumbnail.png
+share-img: /assets/img/blogs/chandrayaan-3/thumbnail.png
 tags: [isro, chandrayaan, pragyan, moon, vikram]
 ---
 
@@ -130,7 +130,7 @@ Two significant changes have been made for Chandrayaan-3, considering its predec
 
 <p align="middle">
         <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/landing_site.png" width="40%"/>
-        <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/a_closer_look" width="34%"/>
+        <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/a_closer_look.png" width="34%"/>
     </p>
 
   <p align="middle">
