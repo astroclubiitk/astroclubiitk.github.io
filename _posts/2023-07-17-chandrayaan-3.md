@@ -125,7 +125,9 @@ Unlike its predecessor, Chandrayaan-2, Chandrayaan-3 does not include an orbiter
                      
 
 
-Chandrayaan-3 features two hazard detection and avoidance cameras on its lander, whereas Chandrayaan-2 had only one such camera. The cameras on board are also designed to be more robust. The legs of the Vikram lander have been reinforced, ensuring a higher level of sturdiness. Consequently, despite the 50% increase in landing speed, the likelihood of a crash has been significantly reduced.  
+Chandrayaan-3 features two hazard detection and avoidance cameras on its lander, whereas Chandrayaan-2 had only one such camera. The cameras on board are also designed to be more robust. The legs of the Vikram lander have been reinforced, ensuring a higher level of sturdiness. 
+
+In Chandrayaan-2, the Vikram lander was traveling at a velocity of approximately 21,000 km/h. During its intended landing on the lunar surface, it was supposed to decelerate and change its velocity to around 7 km/h, which is equivalent to around 2 m/s. However, due to the inability to achieve this velocity change, the lander deviated from its original trajectory and ultimately crashed. To address this issue, in Chandrayaan-3, the landing velocity has been increased to 3 m/s. This adjustment is aimed at achieving a softer touchdown on the lunar surface. The decrease in velocity from approximately 21,000 km/h to 3 m/s is considered a more favorable approach compared to the previous target of 2 m/s. The higher landing rate enables the system to maintain stability, which was lacking in Chandrayaan-2. A higher descent rate, associated with the increased landing velocity, facilitates better control and maneuverability during the final stages of the landing process.
 
 The Vikram rover is now equipped with additional solar panels to ensure continuous power supply, regardless of how it lands. Chandrayaan-3 includes an instrument called the Spectro-Polarimetry of Habitable Planetary Earth (SHAPE) on the propulsion module, which aids in studying spectral and polarimetric measurements of Earth.
 
