@@ -63,7 +63,7 @@ The payload of Chandrayaan 3 comprises three main components:
 
     d. *Laser Retroreflector Array (LRA):* This passive experiment contributes to the understanding of the dynamics of the Moon system.
 
-    <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p2.png" class="center" >
+    <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p2.png" class="center" width="80%">
 
     These sensors are on the missile's lander to ensure a safe touchdown:
        Laser Inertial Referencing and Accelerometer Package (LIRAP), Ka-Band Altimeter (KaRA), Lander Position Detection Camera (LPDC), Lander Hazard Detection & Avoidance Camera (LHDAC), Laser Altimeter (LASA), Laser Doppler Velocimeter (LDV), Lander Horizontal Velocity Camera (LHVC), Micro Star sensor, Inclinometer & Touchdown sensors
@@ -133,7 +133,7 @@ Two significant changes have been made for Chandrayaan-3, considering its predec
     </p>
 
   <p align="middle">
-    Left: Landing Site         Right: A closer look
+    Left: Landing site   &nbsp; &nbsp;      Right: A closer look
   </p>
 
 In conclusion, the fate of the mission will be determined in the next 38 days. If everything goes as planned, the landing is scheduled to occur on August 23, 2023. This small step will mark a significant leap for future lunar exploration missions.
