@@ -123,7 +123,7 @@ Unlike its predecessor, Chandrayaan-2, Chandrayaan-3 does not include an orbiter
                      
 
 
-Chandrayaan-3 features two hazard detection and avoidance cameras on its lander, whereas Chandrayaan-2 had only one such camera. The cameras on board are also designed to be more robust. Additionally, the Vikram lander has sturdy legs, and the landing velocity has been decreased to prevent any crashing or leg damage.
+Chandrayaan-3 features two hazard detection and avoidance cameras on its lander, whereas Chandrayaan-2 had only one such camera. The cameras on board are also designed to be more robust. Additionally, the Vikram lander has sturdy legs, and the landing velocity has been increased to prevent any crashing or leg damage.
 
 The Vikram rover is now equipped with additional solar panels to ensure continuous power supply, regardless of how it lands. Chandrayaan-3 includes an instrument called the Spectro-Polarimetry of Habitable Planetary Earth (SHAPE) on the propulsion module, which aids in studying spectral and polarimetric measurements of Earth.
 
