@@ -53,7 +53,7 @@ The payload of Chandrayaan 3 comprises three main components:
 
 2. **Lander Module - Vikram:** <br>
 
-    While the propulsion module stays in lunar orbit, the Vikram lander drops to the surface for a soft landing. It is box-shaped and equipped with four landing legs and four thrusters. It carries the rover and various instruments necessary for in-situ analysis. The operational lifespan of the lander and the rover is equivalent to one lunar day, which is approximately 14 Earth days. The payloads (those elements of the spacecraft/rocket/ missile specifically dedicated to producing mission data and then relaying that data back to Earth) present on the lander include:
+    While the propulsion module stays in lunar orbit, the Vikram lander drops to the surface for a soft landing. It is box-shaped and equipped with four landing legs and four thrusters. It carries the rover and various instruments necessary for in-situ analysis. The operational lifespan of the lander and the rover is equivalent to one lunar day, which is approximately 14 Earth days. The payloads (those elements of the spacecraft/rocket/missile specifically dedicated to producing mission data and then relaying that data back to Earth) present on the lander include:
 
     a. *RAMBHA-LP (Langmuir Probe):* This instrument measures the plasma density and its variations on the lunar surface.
 
