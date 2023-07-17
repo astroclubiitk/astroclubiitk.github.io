@@ -15,7 +15,7 @@ India has firmly established its lunar quest by launching Chandrayaan 1 (on Octo
 <!-- <img src="{{ site.baseurl }}image_1_JWST.jpg" class="center"> --> 
 <!-- /assets/img/blogs/jwst-first-images/content_images/ -->
 ## Objectives of Chandrayaan 3
-<br>
+
 1. Getting the lander a safe and soft landing on the surface of the moon.
 2. Observing and demonstrating the capabilities of the rover on the lunar surface.
 3. Conducting scientific experiments to better understand the composition of the moon, including its chemical and natural elements, soil, and water.
@@ -34,7 +34,7 @@ The mission begins by orbiting the Earth approximately 5-6 times in an elliptica
 
 
 
-## Components of Chandrayaan 3 Missile
+## Components of Chandrayaan 3
 
 ### LVM3-M4 Vehicle
 
@@ -88,7 +88,7 @@ The payload of Chandrayaan 3 comprises three main components:
    <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p3.png" class="center" width="80%">
     
 ## Communication in Chandrayaan 3
-<br>
+
 1. **Propulsion Module:** The propulsion module communicates with the Indian Deep Space Network (IDSN).
 2. **Lander Module:** The lander module establishes communication with both the Indian Deep Space Network (IDSN) and the rover. In case of contingencies, a link with the Chandrayaan-2 Orbiter is also planned.
 3. **Rover:** The rover communicates exclusively with the lander module.
@@ -123,7 +123,7 @@ Unlike its predecessor, Chandrayaan-2, Chandrayaan-3 does not include an orbiter
                      
 
 
-Chandrayaan-3 features two hazard detection and avoidance cameras on its lander, whereas Chandrayaan-2 had only one such camera. The cameras on board are also designed to be more robust. Additionally, the Vikram lander has sturdy legs, and the landing velocity has been increased to prevent any crashing or leg damage.
+Chandrayaan-3 features two hazard detection and avoidance cameras on its lander, whereas Chandrayaan-2 had only one such camera. The cameras on board are also designed to be more robust. Additionally, the Vikram lander has sturdy legs, and the landing velocity has been decreased to prevent any crashing or leg damage.
 
 The Vikram rover is now equipped with additional solar panels to ensure continuous power supply, regardless of how it lands. Chandrayaan-3 includes an instrument called the Spectro-Polarimetry of Habitable Planetary Earth (SHAPE) on the propulsion module, which aids in studying spectral and polarimetric measurements of Earth.
 
