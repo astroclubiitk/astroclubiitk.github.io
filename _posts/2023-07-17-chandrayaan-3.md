@@ -3,8 +3,8 @@ layout: post
 title: Chandrayaan 3 - India's Renewed Pursuit of Lunar Exploration
 subtitle: Article by Amar Sathwik, Samhitha Keluth, Yeleena
 cover-img: /assets/img/blogs/chandrayaan-3/cover.png
-thumbnail-img: /assets/img/blogs/chandrayaan-3/thumbnail.png
-share-img: /assets/img/blogs/chandrayaan-3/thumbnail.png
+thumbnail-img: /assets/img/blogs/chandrayaan-3/thumbnail.jpg
+share-img: /assets/img/blogs/chandrayaan-3/thumbnail.jpg
 tags: [isro, chandrayaan, pragyan, moon, vikram]
 ---
 
@@ -133,7 +133,7 @@ Two significant changes have been made for Chandrayaan-3, considering its predec
     </p>
 
   <p align="middle">
-    Left: Landing Site; Right: A closer look
+    Left: Landing Site         Right: A closer look
   </p>
 
 In conclusion, the fate of the mission will be determined in the next 38 days. If everything goes as planned, the landing is scheduled to occur on August 23, 2023. This small step will mark a significant leap for future lunar exploration missions.
