@@ -44,7 +44,8 @@ LVM3 serves as the operational heavy lift launch vehicle for ISRO. Chandrayaan 3
 
 The payload of Chandrayaan 3 comprises three main components:
 
-1. **Propulsion Module:** <br><br>
+1. **Propulsion Module:** <br>
+
     The propulsion module facilitates the transportation of the lander and rover from the injection orbit around Earth to the lunar orbit at a distance of 100 km. Additionally, the propulsion module includes the Spectro-polarimetry of HAbitable Planet Earth (SHAPE) experiment. SHAPE aims to study Earth from lunar orbit, specifically focusing on spectro-polarimetric signatures in the near-infrared wavelength range. This experimental payload allows for the exploration of reflected light from smaller planets, providing insights into a variety of exoplanets that may have habitable conditions.
 
     <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p1.png" class="center" width="80%">
@@ -72,7 +73,8 @@ The payload of Chandrayaan 3 comprises three main components:
 
     <!-- <img src="{{ site.baseurl }}/assets/img/blogs/jwst-first-images/content_images/image_6_transit_light_curve.png" class="center"> -->
 
-3. **Rover Module - Pragyan:** <br><br>
+3. **Rover Module - Pragyan:** <br>
+
     After the successful soft landing of the Vikram Lander, the Pragyan Rover, a six-wheeled vehicle, emerges and begins traversing the lunar surface. On the rear wheel of this 27kg rover, ISRO has embossed an image of the ISRO logo and the national emblem of India. As the rover moves across the lunar terrain, it leaves an impression of the Indian emblem and ISRO logo on the lunar soil, symbolizing India's presence at the moon's south pole.
 
     The Pragyan Rover is equipped with two payloads:
