@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chandrayaan 3
+title: Chandrayaan 3: India's Renewed Pursuit of Lunar Exploration
 subtitle: Article by Amar Sathwik, Samhitha Keluth, Yeleena
 cover-img: /assets/img/blogs/chandrayaan-3/cover.png
 thumbnail-img: /assets/img/blogs/chandrayaan-3/thumbnail.png
@@ -28,7 +28,7 @@ So, why target the south pole? Scientists believe that this region holds unique 
 
 ## Layout and Path of the Mission
 
-<img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/layout_of_mission.png" class="center">
+<img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/layout_of_mission.png" class="center" width="80%"/>
 
 The mission begins by orbiting the Earth approximately 5-6 times in an elliptical cycle, gradually transitioning towards the lunar orbit. Following separation from the launch vehicle, the propulsion module and the lander embark on a month-long journey to reach the moon's orbit, gradually ascending to an altitude of 100 km above the lunar surface. At this point, the lander module initiates its descent for a soft landing on the moon's surface. Once a successful landing is achieved, the rover emerges from the lander module and utilizes its payloads to conduct studies of the moon's surface.
 
@@ -40,14 +40,14 @@ The mission begins by orbiting the Earth approximately 5-6 times in an elliptica
 
 LVM3 serves as the operational heavy lift launch vehicle for ISRO. Chandrayaan 3, designated as the fourth operational mission (M4) of the LVM3 launcher, is responsible for carrying the necessary payload into space. 
 
-<img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/lvm3.png" class="center">
+<img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/lvm3.png" class="center" width="50%">
 
 The payload of Chandrayaan 3 comprises three main components:
 
 1. **Propulsion Module:** <br>
     The propulsion module facilitates the transportation of the lander and rover from the injection orbit around Earth to the lunar orbit at a distance of 100 km. Additionally, the propulsion module includes the Spectro-polarimetry of HAbitable Planet Earth (SHAPE) experiment. SHAPE aims to study Earth from lunar orbit, specifically focusing on spectro-polarimetric signatures in the near-infrared wavelength range. This experimental payload allows for the exploration of reflected light from smaller planets, providing insights into a variety of exoplanets that may have habitable conditions.
 
-    <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p1.png" class="center">
+    <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p1.png" class="center" width="80%">
 
 
 
@@ -63,7 +63,7 @@ The payload of Chandrayaan 3 comprises three main components:
 
     d. *Laser Retroreflector Array (LRA):* This passive experiment contributes to the understanding of the dynamics of the Moon system.
 
-    <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p2.png" class="center">
+    <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p2.png" class="center" >
 
     These sensors are on the missile's lander to ensure a safe touchdown:
        Laser Inertial Referencing and Accelerometer Package (LIRAP), Ka-Band Altimeter (KaRA), Lander Position Detection Camera (LPDC), Lander Hazard Detection & Avoidance Camera (LHDAC), Laser Altimeter (LASA), Laser Doppler Velocimeter (LDV), Lander Horizontal Velocity Camera (LHVC), Micro Star sensor, Inclinometer & Touchdown sensors
@@ -83,7 +83,7 @@ The payload of Chandrayaan 3 comprises three main components:
 
     The Pragyan Rover is expected to make significant scientific discoveries, including studying the composition of the lunar surface, investigating the presence of water ice in the lunar soil, exploring the history of lunar impacts, and examining the evolution of the moon's atmosphere.
 
-   <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p3.png" class="center">
+   <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p3.png" class="center" width="80%">
     
 ## Communication in Chandrayaan 3
 
@@ -110,10 +110,9 @@ Chandrayaan-2 was initially scheduled to commence its voyage on July 14, 2019, b
 Unlike its predecessor, Chandrayaan-2, Chandrayaan-3 does not include an orbiter. It was launched with a lander and a rover because the orbiter from Chandrayaan-2 will be repurposed and used for an ongoing mission.
 
 |                       | **Chandrayaan-1**     | **Chandrayaan-2**    | **Chandrayaan-3**                                            |
-|-----------------------|----------------------------------|---------------------------------------------------------|----------------------------------------------------------|
 | **Mission Type**          | Lunar Orbiter       | Lunar Orbiter, Lander and Rover       | Lander, Rover and Propulsion Module      |
 | **Operator**              | ISRO            | ISRO                       | ISRO                     |
-| **Mission Duration**      | Planned: 2 years <br>Final: 10 months and 6 days     |  Planned:    <br>    (a) Orbiter: almost 7.5 years <br>     (b) Vikram Lander: ≤14 days <br>  (c) Pragyan Rover: ≤14 days <br> <br>   Final: Landing failure |     Planned:    <br>   (a) Vikram Lander: ≤14 days <br>  (b) Pragyan Rover: ≤14 days <br> <br>   Landing date: August 23, 2023|
+| **Mission Duration**      | Planned: 2 years <br><br>Final: 10 months and 6 days     |  Planned:    <br>    (a) Orbiter: almost 7.5 years <br>     (b) Vikram Lander: ≤14 days <br>  (c) Pragyan Rover: ≤14 days <br> <br>   Final: Landing failure |     Planned:    <br>   (a) Vikram Lander: ≤14 days <br>  (b) Pragyan Rover: ≤14 days <br> <br>   Landing date: August 23, 2023|
 |**Launch Mass (in kg)** | 1380 | 3850 (wet) + 1308 (dry) | 3900 |
 | **Dry Mass + Payload Mass (in kg)** | 560 + 105 | Orbiter: 2379 (wet) + 682 (dry) <br> Lander: 1471 (wet) + 626 (dry) <br> Pragyan Rover: 27| Propulsion Module (SHAPE): 2148<br>Lander + Rover: 1752|
 |**Rocket**| PSLV-XL C11 | LVM3 M1 |LVM3 M4|
@@ -130,7 +129,7 @@ Two significant changes have been made for Chandrayaan-3, considering its predec
 
 <p align="middle">
         <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/landing_site.png" width="40%"/>
-        <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/a_closer_look.png" width="34%"/>
+        <img src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/a_closer_look.png" width="50%"/>
     </p>
 
   <p align="middle">
@@ -144,6 +143,6 @@ In conclusion, the fate of the mission will be determined in the next 38 days. I
 
 ### References
 
-[1] [https://www.isro.gov.in/Chandrayaan3_New.html](https://www.isro.gov.in/Chandrayaan3_New.html)<br>
-[2] [https://www.isro.gov.in/media_isro/pdf/Missions/LVM3/LVM3M4_Chandrayaan3_brochure.pdf](https://www.isro.gov.in/media_isro/pdf/Missions/LVM3/LVM3M4_Chandrayaan3_brochure.pdf)<br>
-[3] [https://www.isro.gov.in/media_isro/pdf/science/hand_book_payloads_data_and_science.pdf](https://www.isro.gov.in/media_isro/pdf/science/hand_book_payloads_data_and_science.pdf)
+[1] [ISRO - Chandrayaan 3](https://www.isro.gov.in/Chandrayaan3_New.html)<br>
+[2] [LVM3-M4 Chandrayaan 3 Brochure](https://www.isro.gov.in/media_isro/pdf/Missions/LVM3/LVM3M4_Chandrayaan3_brochure.pdf)<br>
+[3] [Handbook of Payloads](https://www.isro.gov.in/media_isro/pdf/science/hand_book_payloads_data_and_science.pdf)
