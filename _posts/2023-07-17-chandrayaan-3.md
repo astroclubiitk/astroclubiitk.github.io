@@ -10,7 +10,7 @@ tags: [isro, chandrayaan, pragyan, moon, vikram]
 
 Throughout history, humanity has been captivated by the moon, one of the most enchanting celestial objects in the universe. Intrigued by the enigmatic white orb hanging in the sky, we embarked on space missions driven by our innate curiosity to unravel its mysteries. The Soviet Union's Luna 2 spacecraft was the first to reach the lunar surface in 1959. Many space missions were dedicated to the moon landing as part of the space race between the United States and the Soviet Union, including the famous Apollo 11, the first human step on the moon, in 1969.
 
-India has firmly established its lunar quest by launching Chandrayaan 1 (on October 22, 2008), Chandrayaan 2 (on July 22, 2019), and Chandrayaan 3 (on July 14, 2023) to the moon. Let us have a peek at ISRO's most recent accomplishment, Chandrayaan 3. On July 14, 2023, at 14:35, Chandrayaan 3 was launched aboard the LVM3 M4 rocket from the Satish Dhawan Space Centre.
+India has firmly established its lunar quest by launching Chandrayaan 1 (on October 22, 2008), Chandrayaan 2 (on July 22, 2019), and Chandrayaan 3 (on July 14, 2023) to the moon. Let us have a peek at ISRO's most recent accomplishment, Chandrayaan 3. On July 14, 2023, at 14:35 IST, Chandrayaan 3 was launched aboard the LVM3 M4 rocket from the Satish Dhawan Space Centre.
 
 <!-- <img src="{{ site.baseurl }}image_1_JWST.jpg" class="center"> --> 
 <!-- /assets/img/blogs/jwst-first-images/content_images/ -->
