@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chandrayaan 3\: India's Renewed Pursuit of Lunar Exploration
+title: Chandrayaan 3 - India's Renewed Pursuit of Lunar Exploration
 subtitle: Article by Amar Sathwik, Samhitha Keluth, Yeleena
 cover-img: /assets/img/blogs/chandrayaan-3/cover.png
 thumbnail-img: /assets/img/blogs/chandrayaan-3/thumbnail.png
