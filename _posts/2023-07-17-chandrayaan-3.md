@@ -113,17 +113,14 @@ Chandrayaan-2 was initially scheduled to commence its voyage on July 14, 2019, b
 
 Unlike its predecessor, Chandrayaan-2, Chandrayaan-3 does not include an orbiter. It was launched with a lander and a rover because the orbiter from Chandrayaan-2 will be repurposed and used for an ongoing mission.
 
-|                       | **Chandrayaan-1**     | **Chandrayaan-2**    | **Chandrayaan-3**                                            |
-| **Mission Type**          | Lunar Orbiter       | Lunar Orbiter, Lander and Rover       | Lander, Rover and Propulsion Module      |
-| **Operator**              | ISRO            | ISRO                       | ISRO                     |
-| **Mission Duration**      | Planned: 2 years <br><br>Final: 10 months and 6 days     |  Planned:    <br>    (a) Orbiter: almost 7.5 years <br>     (b) Vikram Lander: ≤14 days <br>  (c) Pragyan Rover: ≤14 days <br> <br>   Final: Landing failure |     Planned:    <br>   (a) Vikram Lander: ≤14 days <br>  (b) Pragyan Rover: ≤14 days <br> <br>   Landing date: August 23, 2023|
-|**Launch Mass (in kg)** | 1380 | 3850 (wet) + 1308 (dry) | 3900 |
-| **Dry Mass + Payload Mass (in kg)** | 560 + 105 | Orbiter: 2379 (wet) + 682 (dry) <br> Lander: 1471 (wet) + 626 (dry) <br> Pragyan Rover: 27| Propulsion Module (SHAPE): 2148<br>Lander + Rover: 1752|
-|**Rocket**| PSLV-XL C11 | LVM3 M1 |LVM3 M4|
-
-
-                     
-
+|                                     | **Chandrayaan-1**                                     | **Chandrayaan-2**                                                                                                                             | **Chandrayaan-3**                                                                                                           |
+| **Mission Type**                    | Lunar Orbiter                                         | Lunar Orbiter, Lander and Rover                                                                                                               | Lander, Rover and Propulsion Module                                                                                         |
+| **Operator**                        | ISRO                                                  | ISRO                                                                                                                                          | ISRO                                                                                                                        |
+| **Mission Duration**                | Planned: 2 years <br><br>Final: 10 months and 6 days  | Planned:<br>(a) Orbiter: almost 7.5 years <br>(b) Vikram Lander: ≤14 days <br>(c) Pragyan Rover: ≤14 days <br> <br>   Final: Landing failure  | Planned:    <br>   (a) Vikram Lander: ≤14 days <br>  (b) Pragyan Rover: ≤14 days <br> <br>   Landing date: August 23, 2023  |
+| **Launch Mass (in kg)**             | 1380                                                  | 3850 (wet) + 1308 (dry)                                                                                                                       | 3900                                                                                                                        |
+| **Dry Mass + Payload Mass (in kg)** | 560 + 105                                             | Orbiter: 2379 (wet) + 682 (dry) <br> Lander: 1471 (wet) + 626 (dry) <br> Pragyan Rover: 27                                                    | Propulsion Module (SHAPE): 2148<br>Lander + Rover: 1752                                                                     |
+| **Rocket**                          | PSLV-XL C11                                           | LVM3 M1                                                                                                                                       | LVM3 M4                                                                                                                     |
+{: .responsive-table}
 
 Chandrayaan-3 features two hazard detection and avoidance cameras on its lander, whereas Chandrayaan-2 had only one such camera. The cameras on board are also designed to be more robust. The legs of the Vikram lander have been reinforced, ensuring a higher level of sturdiness. 
 

@@ -1093,3 +1093,25 @@ form button:hover {
 form button:hover {
   color: {{ site.text-col }};
 }
+
+/* CSS for responsive table */
+@media (max-width: 767px) {
+  table {
+    display: block;
+    overflow-x: scroll;
+  }
+  
+  /* table thead {
+    display: none;
+  } */
+  
+  /* table td {
+    display: block;
+  } */
+  
+  /* table td::before {
+    content: attr(data-th);
+    font-weight: bold;
+    display: block;
+  } */
+}
