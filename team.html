@@ -3,8 +3,74 @@ layout: page
 title: Our Team
 subtitle: Free free to contact any of us!
 ---
+<h3 style="text-align: center;">Current Coordinators (2023-24)</h3><br>
 
-<h3 style="text-align: center;">Current Coordinators (2022-23)</h3><br>
+<div class="container pt-6 pb-6">
+    <div class="row pt-6 pb-6">
+        {% for member in site.team %}
+            {% if member.batch == "Y21" %}
+                <div class="col-12 col-md-6 mb-2">
+                    <div class="card border-0">
+                        {% if member.image_path %}
+                        <img alt="{{ member.name }}" class="img-fluid mb-2 card-img-top" src="{{ site.baseurl }}{{ member.image_path }}" />
+                        {% endif %}
+                        <div class="card-body text-center" style="padding: 0px;">
+                            <h4 class="card-title mb-0" style="padding-bottom: 10px; margin: 10px;">{{ member.name }}</h4>
+                            <h6 class="card-text">{{ member.batch }} {{ member.info }}</h6>
+                            <ul class="list-inline text-center" style="margin: 0;">
+                                <li class="list-inline-item">
+                                <a target="_blank" href="https://facebook.com/{{ member.facebook }}" title="Facebook">
+                                    <span class="fa-stack fa-lg" aria-hidden="true">
+                                    <i class="fab fa-facebook fa-stack-1x"></i>
+                                    </span>
+                                </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a target="_blank" href="https://instagram.com/{{ member.insta }}" title="Instagram">
+                                        <span class="fa-stack fa-lg" aria-hidden="true">
+                                        <i class="fab fa-instagram fa-stack-1x"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>                
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+  </div>
+
+
+<h3 style="text-align: center;">Secretaries (2022-23)</h3><br>
+
+<div class="container pt-6 pb-6">
+    <div class="row pt-6 pb-6">
+        <ol>
+            <li>Abhinav Singhal</li>
+            <li>Antriksh Gupta</li>
+            <li>Anushree Shukla</li>
+            <li>Arnav Karipae</li>
+            <li>Ashmit Bathla</li>
+            <li>Eesh Naugraiya</li>
+            <li>Himanshu Mittal</li>
+            <li>Kaustubh Jha</li>
+            <li>Manas Pandey</li>
+            <li>Manjusree Nayak</li>
+            <li>Neerav Sethi</li>
+            <li>Princy Chauhan</li>
+            <li>Ritik Kumar</li>
+            <li>Shreya Rajak</li>
+            <li>Shrilakshmi</li>
+            <li>Soumya Chaturvedi</li>
+            <li>Suryansh Gaur</li>
+            <li>Vaishnavi Singh</li>
+            <li>Yogit</li>
+        </ol>
+    </div>
+</div>
+
+<h3 style="text-align: center;">Ex-Coordinators (2022-23)</h3><br>
 
 <div class="container pt-6 pb-6">
     <div class="row pt-6 pb-6">
@@ -41,34 +107,6 @@ subtitle: Free free to contact any of us!
         {% endfor %}
     </div>
   </div>
-
-<h3 style="text-align: center;">Secretaries (2022-23)</h3><br>
-
-<div class="container pt-6 pb-6">
-    <div class="row pt-6 pb-6">
-        <ol>
-            <li>Abhinav Singhal</li>
-            <li>Antriksh Gupta</li>
-            <li>Anushree Shukla</li>
-            <li>Arnav Karipae</li>
-            <li>Ashmit Bathla</li>
-            <li>Eesh Naugraiya</li>
-            <li>Himanshu Mittal</li>
-            <li>Kaustubh Jha</li>
-            <li>Manas Pandey</li>
-            <li>Manjusree Nayak</li>
-            <li>Neerav Sethi</li>
-            <li>Princy Chauhan</li>
-            <li>Ritik Kumar</li>
-            <li>Shreya Rajak</li>
-            <li>Shrilakshmi</li>
-            <li>Soumya Chaturvedi</li>
-            <li>Suryansh Gaur</li>
-            <li>Vaishnavi Singh</li>
-            <li>Yogit</li>
-        </ol>
-    </div>
-</div>
 
 <h3 style="text-align: center;">Ex-Coordinators (2021-22)</h3><br>
 
