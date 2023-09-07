@@ -6,7 +6,7 @@ link: beginners-guide
 button-text: Beginner's guide
 ---
 
-<img src="{{ site.baseurl }}/assets/img/resources/beginners-guide/image.jpg" class="center">
+<img loading="lazy" src="{{ site.baseurl }}/assets/img/resources/beginners-guide/image.jpg" class="center">
 
 Astronomy is the scientific study of celestial objects (such as stars, planets, comets, and galaxies) and phenomena that originate outside the Earth's atmosphere (such as the cosmic background radiation). It is concerned with the evolution, physics, chemistry, meteorology, and motion of celestial objects, as well as the formation and development of the universe.
 
