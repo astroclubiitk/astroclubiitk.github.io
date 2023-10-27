@@ -15,7 +15,7 @@ cover-img: /assets/img/banner/projects.jpeg
 </ul>
 
 <ul class="pagination blog-pager">
-  {% for project in site.projects limit:1 %}
+  {% for project in site.projects limit:1 offset:3 %}
   <li class="page-item">
     <a class="page-link" href="{{ project.link }}" data-toggle="tooltip" data-placement="top" >{{ project.button-text }}</a>
   </li>
