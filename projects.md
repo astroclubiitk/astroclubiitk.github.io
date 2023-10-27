@@ -13,3 +13,12 @@ cover-img: /assets/img/banner/projects.jpeg
   <br>
   {% endfor %}  
 </ul>
+
+<ul class="pagination blog-pager">
+  {% for project in site.projects limit:1 %}
+  <li class="page-item">
+    <a class="page-link" href="{{ project.link }}" data-toggle="tooltip" data-placement="top" >{{ project.button-text }}</a>
+  </li>
+  <br>
+  {% endfor %}  
+</ul>
