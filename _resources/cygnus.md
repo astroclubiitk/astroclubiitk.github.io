@@ -12,7 +12,8 @@ But wait, that's not all! Cygnus also features a dedicated astrophotography sect
 
 # Second Edition
 
-Released in 2022. More information. More engaging. More thrill. Download the PDF <a href="/assets/docs/magazine/Cygnus-2022.pdf" target="_blank">here</a>.
+Released in 2022. More information. More engaging. More thrill.
+Download the PDF <a href="/assets/docs/magazine/Cygnus-2022.pdf" target="_blank">here</a>.
 
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 600px;" src="https://heyzine.com/flip-book/c8325a70c5.html"></iframe>
 
