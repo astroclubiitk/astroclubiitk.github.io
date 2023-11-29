@@ -81,7 +81,6 @@ The payload of Chandrayaan 3 comprises three main components:
 
    <img loading="lazy" src="{{ site.baseurl }}/assets/img/blogs/chandrayaan-3/content_images/p3.png" class="center" width="80%">
 
-
 ## Communication in Chandrayaan 3
 
 1. **Propulsion Module:** The propulsion module communicates with the Indian Deep Space Network (IDSN).

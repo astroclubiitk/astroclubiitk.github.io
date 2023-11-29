@@ -4,7 +4,7 @@ title: History of Astronomy
 subtitle: Article by Mohammad Saad
 thumbnail-img: /assets/img/blogs/history/cover.jpeg
 share-img: /assets/img/blogs/history/cover.jpeg
-tags: [history,astronomy]
+tags: [history, astronomy]
 comments: true
 ---
 
