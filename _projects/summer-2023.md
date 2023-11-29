@@ -9,48 +9,48 @@ button-text: Summer 2023
 
 ### 1. Tour de OAAR
 
-*Abstract:*
+_Abstract:_
 
-*Expected Workload*: 7 hr/week
+_Expected Workload_: 7 hr/week
 
-*Mentors:* Abhinav Singhal, Kislay Aditya, Vaishnavi Singh
+_Mentors:_ Abhinav Singhal, Kislay Aditya, Vaishnavi Singh
 
-(* *Github Repository Link:*  [astroclubiitk/Tour de OAAR](https://github.com/astroclubiitk/Tour-de-OAAR-2023) *)
+(\* _Github Repository Link:_ [astroclubiitk/Tour de OAAR](https://github.com/astroclubiitk/Tour-de-OAAR-2023) \*)
 
-*Resources:* <a href="/assets/docs/projects/2023/Tour_de_OAAR/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2023/Tour_de_OAAR/Poster.pdf" target="_blank">Poster</a>
+_Resources:_ <a href="/assets/docs/projects/2023/Tour_de_OAAR/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2023/Tour_de_OAAR/Poster.pdf" target="_blank">Poster</a>
 
 ### 2. Optical Odyssey
 
-*Abstract:*
+_Abstract:_
 
-*Expected Workload*: 6 hr/week
+_Expected Workload_: 6 hr/week
 
-*Mentors:* Anushree Shukla, Princy Chauhan, Shreya Rajak
+_Mentors:_ Anushree Shukla, Princy Chauhan, Shreya Rajak
 
-(* *Github Repository Link:*  [astroclubiitk/XUVI](https://github.com/astroclubiitk/XUVI) *)
+(\* _Github Repository Link:_ [astroclubiitk/XUVI](https://github.com/astroclubiitk/XUVI) \*)
 
-*Resources:* <a href="/assets/docs/projects/2023/Optical_Odyssey/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2023/Optical_Odyssey/Poster.pdf" target="_blank">Poster</a>
+_Resources:_ <a href="/assets/docs/projects/2023/Optical_Odyssey/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2023/Optical_Odyssey/Poster.pdf" target="_blank">Poster</a>
 
 ### 3. CosmoCode
 
-*Abstract:* 
+_Abstract:_
 
-*Expected Workload*: 6 hr/week
+_Expected Workload_: 6 hr/week
 
-*Mentors:* Arpit Anand, Shrilakshmi S K, Suryansh Gaur
+_Mentors:_ Arpit Anand, Shrilakshmi S K, Suryansh Gaur
 
-(* *Github Repository Link:*  [astroclubiitk/XUVI](https://github.com/astroclubiitk/XUVI) *)
+(\* _Github Repository Link:_ [astroclubiitk/XUVI](https://github.com/astroclubiitk/XUVI) \*)
 
-*Resources:* <a href="/assets/docs/projects/2023/CosmoCode/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2023/CosmoCode/Poster.pdf" target="_blank">Poster</a>
+_Resources:_ <a href="/assets/docs/projects/2023/CosmoCode/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2023/CosmoCode/Poster.pdf" target="_blank">Poster</a>
 
 ### 4. Stellar Odyssey
 
-*Abstract:*
+_Abstract:_
 
-*Expected Workload*: 6 hr/week
+_Expected Workload_: 6 hr/week
 
-*Mentors:* Arnav, Gaurav Jha
+_Mentors:_ Arnav, Gaurav Jha
 
-(* *Github Repository Link:*  [astroclubiitk/XUVI](https://github.com/astroclubiitk/XUVI) *)
+(\* _Github Repository Link:_ [astroclubiitk/XUVI](https://github.com/astroclubiitk/XUVI) \*)
 
-*Resources:* <a href="/assets/docs/projects/2023/CosmoCode/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2023/Stellar_Odyssey/Poster.pdf" target="_blank">Poster</a>
+_Resources:_ <a href="/assets/docs/projects/2023/CosmoCode/Handbook.pdf" target="_blank">Handbook</a>, <a href="/assets/docs/projects/2023/Stellar_Odyssey/Poster.pdf" target="_blank">Poster</a>
