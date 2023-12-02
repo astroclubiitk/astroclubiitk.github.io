@@ -64,8 +64,7 @@ Zodiac signs are named after the constellations through which sun passes every y
 
 ## Q. Is anything larger than the Galaxies?
 
-Yes, there are structures which are larger than the Galaxies. These are termed as Filaments. Filaments are Galaxies grouped together. If we zoom out a considerable amount then these would appear like 'worms' or 'filaments of a bulb'. 
-
+Yes, there are structures which are larger than the Galaxies. These are termed as Filaments. Filaments are Galaxies grouped together. If we zoom out a considerable amount then these would appear like 'worms' or 'filaments of a bulb'.
 
 ## Q. What is the difference between geocentric and heliocentric theories?
 

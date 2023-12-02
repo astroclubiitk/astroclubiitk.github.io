@@ -2,7 +2,7 @@
 layout: post
 title: RAD Project Handbook
 subtitle: Article by Mubashshir Uddin
-tags: [project,cosmology,handbook,documentation]
+tags: [project, cosmology, handbook, documentation]
 comments: true
 ---
 

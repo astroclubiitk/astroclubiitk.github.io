@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Past
-subtitle:  The past explains how I got here, but the future is up to us.
+subtitle: The past explains how I got here, but the future is up to us.
 link: past-work
 button-text: Past Work
 ---
@@ -11,12 +11,13 @@ The Astronomy Club, IITK began its journey in 1975. A 138 mm Newtonian Reflectiv
 ## WORKSHOPS AND INFORMAL LECTURES
 
 The club used to organize regular workshops on Observational astronomy. In these workshops, the members were taught to :-
+
 - Identify the various constellations, stars and planets,
 - Estimate the magnitude (brightness) of the stars,
 - Use of telescope,
 - Search for deep sky objects including Messier Objects comprising of star clusters, galaxies, nebulae etc.
-In short everything that is required to transform one from a "beginner" to an "amateur astronomer" was told. Some celestial events like Leonid showers were also observed by the club members.
-Apart from observations, informal lectures were held on subects like Celestial sphere, Precession of Earth's orbit and Eclipses. Videos on topics like Stellar Evolution, Planetary Systems, Voyager's Mission to Jupiter, Saturn and Titan were screened from time to time.
+  In short everything that is required to transform one from a "beginner" to an "amateur astronomer" was told. Some celestial events like Leonid showers were also observed by the club members.
+  Apart from observations, informal lectures were held on subects like Celestial sphere, Precession of Earth's orbit and Eclipses. Videos on topics like Stellar Evolution, Planetary Systems, Voyager's Mission to Jupiter, Saturn and Titan were screened from time to time.
 
 ## TELESCOPE MAKING
 
@@ -27,6 +28,7 @@ Fascinated by the beauty of the Night sky seen through the 138 mm Telscope, the 
 Members were also keen to photograph constellations, nebulae, star clusters, etc. The photographs also included those of solar eclispses, visiting comets like Hyakutake and Hale-Bopp, in addition to planets and moon.
 
 ## COSMOS
+
 An astronomy and astrophysics exhibition was held during Techkriti 1997 ( Annual Tech. Exhibitions and Competetions). This included lectures by eminent personalities like V K Kapalri- director NCRA, TIFR Pune; display of astronomy softwares and slides, photography exhibition, equipments used in astronomy and observation sessions. Cosmos has been made an annual feature of IIT K.
 
 ## THE COSMOS, TECHKRITI MILLENNIUM
@@ -42,21 +44,18 @@ We had also exhibited the photographs taken by our club. The photographs of the 
 
 The Balloon Planetarium organised with the cooperation of 'Regional Science Center, Lucknow' in affliation with 'The National Science Center, New Delhi' provided the oppurtunity to view the night sky during the daytime. It was a great sucess, pulling a throng of people, young and old.
 
-
 ### VISIT BY EMINENT SCIENTISTS
 
 Lectures were held from time to time by professionals in astronomy like Dr. Jayant V Narlikar. They not only guided members in their work but also encouraged them to learn more.
-
 
 ### THE SOLAR ECLIPSE TRIP
 
 A trip to Kalpi was organized by the club for the total solar eclipse on 24th oct 1995. Around 200 people - faculty and students - went to see this rare event. Back from a memorable trip, the members enriched the club with photographs and videos of the eclipse.
 
-
 ### MOTOR DRIVE FOR 8" TELESCOPE
 
 This was the second phase of the proposed OBSERVATORY, first phase being the construction of 8" telescope, which was completed in 1998 by our earlier coordinators. In 1999-2000, motor drive costruction for 8" telescope was accomplished by our then coordinator Mr. Pranav Agarwal. Basically, we need two types of motion to move a telescope in one direction while doing photography:
-Firstly, we need to track an object at a speed of 1/(60*24) rpm. Secondly, during general observations we have to rotate the telescope with appreciable speed. The motor drive provides both the motions. While in the former case it ensures accuracy in tracking, in the latter one it prevents us from engaging and disengaging the gears. PI controller is being used to remove the steady state error in the motion.
+Firstly, we need to track an object at a speed of 1/(60\*24) rpm. Secondly, during general observations we have to rotate the telescope with appreciable speed. The motor drive provides both the motions. While in the former case it ensures accuracy in tracking, in the latter one it prevents us from engaging and disengaging the gears. PI controller is being used to remove the steady state error in the motion.
 
 ### SUN SPOT OBSEVATIONS
 
