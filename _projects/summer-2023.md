@@ -2,7 +2,7 @@
 layout: page
 title: Summer Projects 2023
 subtitle: Projects conducted by the club during May - July 2023
-cover-img: [SP 2023](../assets/img/banner/projects/summer-2023.JPG)
+cover-img: /assets/img/banner/projects/summer-2023.JPG
 link: /projects/summer-2023
 button-text: Summer 2023
 ---
