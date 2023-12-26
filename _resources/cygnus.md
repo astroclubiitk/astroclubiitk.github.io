@@ -12,7 +12,7 @@ But wait, that's not all! Cygnus also features a dedicated astrophotography sect
 
 # Third Edition
 
-Released in 2023. More information. More engaging. More thrill.
+Released in 2023. Evolving the Narrative. Unveiling New Realms, Sparking Endless Stories. Continuing the Legacy.
 Download the PDF <a href="/assets/docs/magazine/Cygnus-2023.pdf" target="_blank">here</a>.
 
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 600px;" src="https://heyzine.com/flip-book/1b88b7a552.html"></iframe>
