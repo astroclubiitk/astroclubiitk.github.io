@@ -63,7 +63,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: 'astronomyclub.iitk@gmail.com'
+  email: 'astroclub@iitk.ac.in'
   facebook: astroclub.iitk
   github: astroclubiitk
   instagram: astroclub.iitk
