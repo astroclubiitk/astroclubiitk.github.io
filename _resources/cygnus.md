@@ -10,6 +10,12 @@ Presenting the annual astronomy magazine, released by the Astronomy Club. In eac
 
 But wait, that's not all! Cygnus also features a dedicated astrophotography section containing stunning visuals of the night and day sky captured by the campus community. Send us the shots you captured and want to be featured in the magazine in the next issue!
 
+# Fourth Edition
+
+Unveiling the Fourth Edition of Cygnus in 2024-25—an enthralling journey through captivating scientific wonders and awe-inspiring stories from the cosmos!
+
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/28af86f126.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
+
 # Third Edition
 
 Released in 2023. Evolving the Narrative. Unveiling New Realms, Sparking Endless Stories. Continuing the Legacy.
