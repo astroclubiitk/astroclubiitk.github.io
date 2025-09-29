@@ -1,7 +1,7 @@
 ---
 name: Amar
 batch: Y22 (AM)
-info: BT Material Science and Engg.
+info: BT Electrical Engg.
 insta: #
 email: #
 image_path: /assets/img/team/amar.jpg
