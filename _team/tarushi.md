@@ -1,6 +1,6 @@
 ---
 name: Tarushi Srivastava
-batch: Y25
+batch: Y23
 info: BT Mechanical Engg.
 insta: srivastavatarushi07
 email: #

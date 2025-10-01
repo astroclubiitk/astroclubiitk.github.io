@@ -1,6 +1,6 @@
 ---
 name: Devansh Kartik
-batch: Y25
+batch: Y23
 info: BS Physics.
 insta: devansh.kartik
 email: #

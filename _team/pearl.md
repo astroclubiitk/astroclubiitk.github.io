@@ -1,6 +1,6 @@
 ---
 name: Pearl Narang
-batch: Y25
+batch: Y23
 info: BT Aerospace Engg.
 insta: pearl_narang
 email: #

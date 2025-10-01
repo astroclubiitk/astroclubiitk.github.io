@@ -1,6 +1,6 @@
 ---
 name: Chhavi Tanwar
-batch: Y25
+batch: Y23
 info: BT Aerospace Engg.
 insta: chhavitanwar_
 email: #
