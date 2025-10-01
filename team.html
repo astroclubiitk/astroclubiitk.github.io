@@ -3,6 +3,71 @@ layout: page
 title: Our Team
 subtitle: Feel free to contact any of us!
 ---
+
+
+<h3 style="text-align: center">Current Coordinators (2025-26)</h3>
+<br />
+
+<div class="container pt-6 pb-6">
+  <div class="row pt-6 pb-6">
+      {% for member in site.team %} {% if member.batch == "Y25" %}
+      <div class="col-12 col-md-6 mb-2">
+        <div class="card border-0">
+    <div style="height: 450px; display: flex; align-items: center; justify-content: center; background: #000;">
+            {% if member.image_path %}
+            <img
+              loading="lazy"
+              alt="{{ member.name }}"
+              class="img-fluid mb-2 card-img-top"
+              src="{{ site.baseurl }}{{ member.image_path }}"
+              style="height: 100%; width: 100%; object-fit: cover;"
+            />
+            {% endif %}
+          </div>
+        <div class="card-body text-center" style="padding: 0px">
+          <h4 class="card-title mb-0" style="padding-bottom: 10px; margin: 10px">
+            {{ member.name }}
+          </h4>
+          <h6 class="card-text">{{ member.batch | replace: ' (AM)', '' }} {{ member.info }}</h6>
+        <ul class="list-inline text-center" style="margin: 0">
+            <li class="list-inline-item">
+              <a target="_blank" href="https://facebook.com/{{ member.facebook }}" title="Facebook">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-facebook fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="https://instagram.com/{{ member.insta }}" title="Instagram">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-instagram fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="mailto:{{ member.email }}" title="Email">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fas fa-envelope fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="https://github.com/{{ member.github }}" title="Github">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-github fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
+
+
+
 <h3 style="text-align: center">Associate Members (Y22)</h3>
 <br />
 
