@@ -6,5 +6,5 @@ facebook: 100094067273667/
 insta: astitva5530
 email: astitvaroy22@iitk.ac.in
 github: Asgardian-Lord
-image_path: assets/img/team/Astitva.JPG
+image_path: /assets/img/team/Astitva.JPG
 ---
