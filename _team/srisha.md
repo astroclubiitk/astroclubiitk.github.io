@@ -1,5 +1,5 @@
 ---
-name: Srisha
+name: Srisha Singh
 batch: Y22 (AM)
 info: BT Material Science and Engg.
 insta: #

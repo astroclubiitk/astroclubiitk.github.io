@@ -1,5 +1,5 @@
 ---
-name: Harshit
+name: Harshit Kumar
 batch: Y22 (AM)
 info: BT Chemical Engg.
 insta: #

@@ -1,5 +1,5 @@
 ---
-name: Paritosh
+name: Paaritosh Jain
 batch: Y22 (AM)
 info: BT Aerospace Engg.
 insta: #

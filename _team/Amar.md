@@ -1,5 +1,5 @@
 ---
-name: Amar
+name: Amar Sathwik Thogiti
 batch: Y22 (AM)
 info: BT Electrical Engg.
 insta: #
