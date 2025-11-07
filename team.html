@@ -3,12 +3,12 @@ layout: page
 title: Our Team
 subtitle: Feel free to contact any of us!
 ---
-<h3 style="text-align: center">Current Coordinators (2024-25)</h3>
+<h3 style="text-align: center">Current Coordinators (2025-26)</h3>
 <br />
 
 <div class="container pt-6 pb-6">
   <div class="row pt-6 pb-6">
-    {% for member in site.team %} {% if member.batch == "Y22" %}
+    {% for member in site.team %} {% if member.batch == "Y23" %}
     <div style="text-align: center" class="col-12 col-md-6 mb-2">
       <div class="card border-0">
         {% if member.image_path %}
@@ -82,9 +82,10 @@ subtitle: Feel free to contact any of us!
   </div>
 </div>
 
-<h3 style="text-align: center">Secretaries (2024-25)</h3>
+<h3 style="text-align: center">Secretaries (2025-26)</h3>
 <br>
 
+<!--
 <table style="font-family: arial, sans-serif; border-collapse: collapse; width: 100%">
   <tr>
     <th style="text-align: center; color: white; background-color: black; border-color: white">Sr.No</th>
@@ -282,7 +283,169 @@ subtitle: Feel free to contact any of us!
     <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
     <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:myashasvi23@iitk.ac.in">myashasvi23@iitk.ac.in</a></td>
   </tr>
-</table>
+</table> -->
+
+<h3 style="text-align: center">Ex-Coordinators (2024-25)</h3>
+<br />
+
+<div class="container pt-6 pb-6">
+  <div class="row pt-6 pb-6">
+    {% for member in site.team %} {% if member.batch == "Y22" %}
+    <div style="text-align: center" class="col-12 col-md-6 mb-2">
+      <div class="card border-0">
+        {% if member.image_path %}
+        <img
+          loading="lazy"
+          alt="{{ member.name }}"
+          class="img-fluid mb-2 card-img-top"
+          src="{{ site.baseurl }}{{ member.image_path }}"
+        />
+        {% endif %}
+        <div class="card-body text-center" style="padding: 0px">
+          <h4
+            class="card-title mb-0"
+            style="padding-bottom: 10px; margin: 10px"
+          >
+            {{ member.name }}
+          </h4>
+          <h6 class="card-text">{{ member.batch }} {{ member.info }}</h6>
+          <ul class="list-inline text-center" style="margin: 0">
+            <li class="list-inline-item">
+              <a
+                target="_blank"
+                href="https://facebook.com/{{ member.facebook }}"
+                title="Facebook"
+              >
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-facebook fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a
+                target="_blank"
+                href="https://instagram.com/{{ member.insta }}"
+                title="Instagram"
+              >
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-instagram fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+          </li>
+          <li class="list-inline-item">
+            <a
+              target="_blank"
+              href="mailto:{{ member.email }}"
+              title="Instagram"
+            >
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fas fa-envelope fa-stack-1x"></i>
+              </span>
+            </a>
+          </li>
+        </li>
+        <li class="list-inline-item">
+          <a
+            target="_blank"
+            href="https://github.com/{{ member.github }}"
+            title="Github"
+          >
+            <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fab fa-github fa-stack-1x"></i>
+            </span>
+          </a>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
+
+<body>
+
+<h3 style="text-align: center">Associate Members (2024-25)</h3>
+<br />
+
+<div class="container pt-6 pb-6">
+  <div class="row pt-6 pb-6">
+    {% for member in site.team %} {% if member.batch == "Y22 (AM)" %}
+    <div class="col-12 col-md-6 mb-2">
+      <div class="card border-0">
+        {% if member.image_path %}
+        <img
+          loading="lazy"
+          alt="{{ member.name }}"
+          class="img-fluid mb-2 card-img-top"
+          src="{{ site.baseurl }}{{ member.image_path }}"
+        />
+        {% endif %}
+        <div class="card-body text-center" style="padding: 0px">
+          <h4
+            class="card-title mb-0"
+            style="padding-bottom: 10px; margin: 10px"
+          >
+            {{ member.name }}
+          </h4>
+          <h6 class="card-text">{{ member.batch }} {{ member.info }}</h6>
+          <ul class="list-inline text-center" style="margin: 0">
+            <li class="list-inline-item">
+              <a
+                target="_blank"
+                href="https://facebook.com/{{ member.facebook }}"
+                title="Facebook"
+              >
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-facebook fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a
+                target="_blank"
+                href="https://instagram.com/{{ member.insta }}"
+                title="Instagram"
+              >
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-instagram fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+          </li>
+          <li class="list-inline-item">
+            <a
+              target="_blank"
+              href="mailto:{{ member.email }}"
+              title="Instagram"
+            >
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fas fa-envelope fa-stack-1x"></i>
+              </span>
+            </a>
+          </li>
+        </li>
+        <li class="list-inline-item">
+          <a
+            target="_blank"
+            href="https://github.com/{{ member.github }}"
+            title="Github"
+          >
+            <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fab fa-github fa-stack-1x"></i>
+            </span>
+          </a>
+        </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
+
+</body>
 
 <h3 style="text-align: center">Ex-Coordinators (2023-24)</h3>
 <br />
@@ -500,7 +663,6 @@ subtitle: Feel free to contact any of us!
     {% endif %} {% endfor %}
   </div>
 </div>
-
 
 <h3 style="text-align: center">Ex-Coordinators (2021-22)</h3>
 <br />
