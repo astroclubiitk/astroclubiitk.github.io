@@ -3,7 +3,71 @@ layout: page
 title: Our Team
 subtitle: Feel free to contact any of us!
 ---
-<h3 style="text-align: center">Current Coordinators (2024-25)</h3>
+
+
+<h3 style="text-align: center">Current Coordinators (2025-26)</h3>
+<br />
+
+<div class="container pt-6 pb-6">
+  <div class="row pt-6 pb-6">
+      {% for member in site.team %} {% if member.batch == "Y23" %}
+      <div class="col-12 col-md-6 mb-2">
+        <div class="card border-0">
+    <div style="height: 450px; display: flex; align-items: center; justify-content: center; background: #000;">
+            {% if member.image_path %}
+            <img
+              loading="lazy"
+              alt="{{ member.name }}"
+              class="img-fluid mb-2 card-img-top"
+              src="{{ site.baseurl }}{{ member.image_path }}"
+              style="height: 100%; width: 100%; object-fit: cover;"
+            />
+            {% endif %}
+          </div>
+        <div class="card-body text-center" style="padding: 0px">
+          <h4 class="card-title mb-0" style="padding-bottom: 10px; margin: 10px">
+            {{ member.name }}
+          </h4>
+          <h6 class="card-text">{{ member.batch | replace: ' (AM)', '' }} {{ member.info }}</h6>
+        <ul class="list-inline text-center" style="margin: 0">
+            <li class="list-inline-item">
+              <a target="_blank" href="https://facebook.com/{{ member.facebook }}" title="Facebook">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-facebook fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="https://instagram.com/{{ member.insta }}" title="Instagram">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-instagram fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="mailto:{{ member.email }}" title="Email">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fas fa-envelope fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="https://github.com/{{ member.github }}" title="Github">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-github fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
+
+<br/>
+<h3 style="text-align: center">Ex-Coordinators (2024-25)</h3>
 <br />
 
 <div class="container pt-6 pb-6">
@@ -81,208 +145,69 @@ subtitle: Feel free to contact any of us!
     {% endif %} {% endfor %}
   </div>
 </div>
+<br/>
 
-<h3 style="text-align: center">Secretaries (2024-25)</h3>
-<br>
 
-<table style="font-family: arial, sans-serif; border-collapse: collapse; width: 100%">
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">Sr.No</th>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">Name</th>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">Department</th>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">Batch</th>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">Email</th>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">1.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Aditya Prakhar</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Material Science and Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:adityap23@iitk.ac.in">adityap23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">2.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Aditya Srivastava</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Physics</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:adityasri23@iitk.ac.in">adityasri23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">3.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Anubhab Goswami</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Mathematics and Scientific Computing</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:anubhabg23@iitk.ac.in">anubhabg23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">4.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Aryan kumar</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Computer Science and Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:aryank23@iitk.ac.in">aryank23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">5.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Bharambe Sarvesh Purushottam</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Civil Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:sarveshp23@iitk.ac.in">sarveshp23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">6.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Chaitanya Vishnoi</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Computer Science and Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:chaitanyav23@iitk.ac.in">chaitanyav23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">7.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Chhavi Tanwar</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Aerospace Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:chhavit23@iitk.ac.in">chhavit23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">8.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Devansh Kartik</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Physics</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:devanshk23@iitk.ac.in">devanshk23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">9.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Dhriti Barnwal</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Computer Science and Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:dhritib23@iitk.ac.in">dhritib23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">10.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Harshit</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Electrical Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:harshitm23@iitk.ac.in">harshitm23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">11.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Mayank Pattnaik</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Physics</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:mayankp23@iitk.ac.in">mayankp23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">12.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Mrinal Chaturvedi</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Civil Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:mrinalchat23@iitk.ac.in">mrinalchat23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">13.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Nandana Manoj</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Aerospace Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:nandana23@iitk.ac.in">nandana23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">14.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Parv Jain</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Economics</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:parvja23@iitk.ac.in">parvja23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">15.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Pearl Narang</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Aerospace Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:pearln23@iitk.ac.in">pearln23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">16.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Prachi Sharma</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Civil Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:prachis23@iitk.ac.in">prachis23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">17.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Pragya Pathak</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Physics</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:pragyapa23@iitk.ac.in">pragyapa23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">18.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Rishabh Kumar</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Civil Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:krishabh23@iitk.ac.in">krishabh23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">19.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Rishabh Verma</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Mechanical Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:rishabhv23@iitk.ac.in">rishabhv23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">20.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Sarthak Singh</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Chemical Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:sarthaks23@iitk.ac.in">sarthaks23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">21.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Shohom De</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Economics</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:shohomde23@iitk.ac.in">shohomde23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">22.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Shruti</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Electrical Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:shruti23@iitk.ac.in">shruti23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">23.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Tanmay Rajput</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Aerospace Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:tanmayr23@iitk.ac.in">tanmayr23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">24.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Tanvi Wadhwani</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Cognitive Science</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y22</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:tanviw22@iitk.ac.in">tanviw22@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">25.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Tarushi Srivastava</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Mechanical Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:starushi23@iitk.ac.in">starushi23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">26.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Toshika Kamble</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Mechanical Engineering</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:toshikak23@iitk.ac.in">toshikak23@iitk.ac.in</a></td>
-  </tr>
-  <tr>
-    <th style="text-align: center; color: white; background-color: black; border-color: white">27.</th>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Yashasvi Mahajan</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Earth Science</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white">Y23</td>
-    <td style="text-align: center; color: white; background-color: black; border-color: white"><a href="mailto:myashasvi23@iitk.ac.in">myashasvi23@iitk.ac.in</a></td>
-  </tr>
-</table>
+<h3 style="text-align: center">Associate Members (2024-25)</h3>
+<br />
+
+<div class="container pt-6 pb-6">
+  <div class="row pt-6 pb-6">
+      {% for member in site.team %} {% if member.batch == "Y22 (AM)" %}
+      <div class="col-12 col-md-6 mb-2">
+        <div class="card border-0">
+    <div style="height: 450px; display: flex; align-items: center; justify-content: center; background: #000;">
+            {% if member.image_path %}
+            <img
+              loading="lazy"
+              alt="{{ member.name }}"
+              class="img-fluid mb-2 card-img-top"
+              src="{{ site.baseurl }}{{ member.image_path }}"
+              style="height: 100%; width: 100%; object-fit: cover;"
+            />
+            {% endif %}
+          </div>
+        <div class="card-body text-center" style="padding: 0px">
+          <h4 class="card-title mb-0" style="padding-bottom: 10px; margin: 10px">
+            {{ member.name }}
+          </h4>
+          <h6 class="card-text">{{ member.batch | replace: ' (AM)', '' }} {{ member.info }}</h6>
+        <ul class="list-inline text-center" style="margin: 0">
+            <li class="list-inline-item">
+              <a target="_blank" href="https://facebook.com/{{ member.facebook }}" title="Facebook">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-facebook fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="https://instagram.com/{{ member.insta }}" title="Instagram">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-instagram fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="mailto:{{ member.email }}" title="Email">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fas fa-envelope fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a target="_blank" href="https://github.com/{{ member.github }}" title="Github">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fab fa-github fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    {% endif %} {% endfor %}
+  </div>
+</div>
 
 <h3 style="text-align: center">Ex-Coordinators (2023-24)</h3>
 <br />
